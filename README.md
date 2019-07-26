@@ -9,5 +9,4 @@ idea -> discussion -> SIG or workgroup -> Sandbox stage -> Incubator stage -> Ma
 Guide to these documents:
 
 * charter.md - legal charter for LF Energy (defines roles & groups, IP policy
-* project-charter-template.md - legal template for projects contributed to LF Energy (note: does not define project stage)
 * project-stages.md - defines project stages from Sandbox through Emeritus (based on LF template)
