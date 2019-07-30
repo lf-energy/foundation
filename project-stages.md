@@ -70,7 +70,10 @@ To be considered for the Sandbox Stage, the project must meet the following requ
 * 2 TAC sponsors to champion the project & provide mentorship as needed
 * A presentation at the meeting of the TAC
 * Adherence to LF Energy’s IP Policy
-* Upon acceptance, Sandbox projects must list their status prominently on their website/README
+* Adoption of LF Energy Code of Conduct
+* Operating TSC with at least 3 members, one chair elected or appointed by sponsoring organization or LF Energy
+* Final acceptance by TAC, 2/3 majority
+* Upon acceptance, Sandbox projects must list and maintain their status prominently on their website/README
 
 ### Incubator Stage
 **Definition** 
@@ -88,7 +91,7 @@ In order to support their active development, projects in the Incubator stage ha
 
 **Expectations**
 
-Projects in the Incubator stage are generally expected to move to the Mature stage within two years. Depending on their growth plans, projects may cycle through Sandbox, Incubator, or Mature stage as needed.  
+Projects in the Incubating stage are generally expected to move to the Graduated stage within two years. Depending on their growth plans, projects may cycle through Sandbox, Incubating, or Graduated stage as needed.  
 
 **Acceptance Criteria**
 
@@ -99,12 +102,15 @@ To be considered for Incubator Stage, the project must meet the Sandbox requirem
  * Demonstrate a substantial ongoing flow of commits and merged contributions.
  * Demonstrate that the current level of community participation is sufficient to meet the goals outlined in the growth plan.
  * Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgement over the level of activity that is adequate to meet these criteria.
- * Receive a two-thirds supermajority vote of the TAC to move to Incubator Stage. 
+ * Operating TSC with at least 5 members and a chair elected by the members
+ * Explicitly define a project governance and committer process. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
+ * Other metrics as defined by the applying Project during the application process in cooperation with the TAC.
+ * Receive a two-thirds supermajority vote of the TAC to move to Incubating Stage. 
 
-### Mature Stage
+### Graduated Stage
 **Definition**
 
-The Mature Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Mature Stage projects are used commonly in enterprise production environments and have large, well-established project communities.     
+The Graduated Stage is for projects that have reached their growth goals and are now on a sustaining cycle of development, maintenance, and long-term support. Graduated Stage projects are used commonly in enterprise production environments and have large, well-established project communities.     
 
 **Examples**
 
@@ -123,12 +129,9 @@ To graduate from Sandbox or Incubator status, or for a new project to join with 
 
  * Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than 1/3 is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer. 
  * Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
- * Have a healthy number of committers from at least two organizations. A committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
- * Adopt the LF Energy Code of Conduct.
- * Explicitly define a project governance and committer process. This is preferably laid out in a GOVERNANCE.md file and references a CONTRIBUTING.md and OWNERS.md file showing the current and emeritus committers.
+ * Have a healthy number of maintainers from at least two organizations. A maintainer or committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
  * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
- * Other metrics as defined by the applying Project during the application process in cooperation with the TAC.
- * Receive a supermajority vote from the TAC to move to Mature stage. Projects can move directly from Sandbox to Mature status if they can demonstrate sufficient maturity and have met all requirements. 
+ * Receive a supermajority vote from the TAC to move to Graduated stage. Projects can move directly from Sandbox to Mature status if they can demonstrate sufficient maturity and have met all requirements. 
 
 
 ### Emeritus Stage
