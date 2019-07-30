@@ -78,13 +78,13 @@ To be considered for the Sandbox Stage, the project must meet the following requ
 ### Incubator Stage
 **Definition** 
 
-The Incubator Stage is for projects that are interested in reaching the Mature Stage, and have identified a growth plan for doing so. Incubator Stage projects will receive mentorship from the TAC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor in to broad success and adoption.
+The Incubator Stage is for projects that are interested in reaching the Graduated Stage, and have identified a growth plan for doing so. Incubator Stage projects will receive mentorship from the TAC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor in to broad success and adoption.
 
 In order to support their active development, projects in the Incubator stage have a higher level of access to foundation resources, which will be agreed upon and reviewed on a yearly basis. A project's progress toward its growth plan goals will be reviewed on a yearly basis, and the TAC may ask the project to move to the Sandbox stage if progress on the plan drops off or stalls. 
 
 **Examples**
 
-1. Projects that are on their way or very likely to become Mature.
+1. Projects that are on their way or very likely to mature to Graduated status.
 1. Projects that have developed new growth targets or other community metrics for success.
 1. Projects that are looking to create a lifecycle plan (maintainership succession, contributor programs, version planning, etc.)
 1. Projects that need more active support from LF Energy Governing Board or TAC mentorship in order to reach their goals. 
@@ -95,7 +95,7 @@ Projects in the Incubating stage are generally expected to move to the Graduated
 
 **Acceptance Criteria**
 
-To be considered for Incubator Stage, the project must meet the Sandbox requirements as well as the following:
+To be considered for Incubating Stage, the project must meet the Sandbox requirements as well as the following:
 
  * Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
  * Document that it is being used successfully in production by at least two independent end users which, in the TAC’s judgement, are of adequate quality and scope.
@@ -121,11 +121,11 @@ The Graduated Stage is for projects that have reached their growth goals and are
 
 **Expectations**
 
-Mature Stage projects are expected to participate actively in TAC proceedings, and as such have a binding vote on TAC matters requiring a formal vote, such as the election of a TAC representative. They receive ongoing financial and marketing support from LF Energy, and are expected to cross promote the foundation along with their activities.
+Graduated Stage projects are expected to participate actively in TAC proceedings, and as such have a binding vote on TAC matters requiring a formal vote, such as the election of a TAC representative. They receive ongoing financial and marketing support from LF Energy, and are expected to cross promote the foundation along with their activities.
 
 **Acceptance Criteria**
 
-To graduate from Sandbox or Incubator status, or for a new project to join with Mature status, a project must meet the Incubator stage criteria plus:
+To graduate from Sandbox or Incubator status, or for a new project to join with Graduated status, a project must meet the Incubator stage criteria plus:
 
  * Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than 1/3 is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer. 
  * Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
