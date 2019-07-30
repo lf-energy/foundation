@@ -51,14 +51,14 @@ All projects may attend TAC meetings and contribute work regardless of their sta
 ### Sandbox Projects
 **Definition** 
 
-Sandbox projects are projects which the TAC believes are, or have the potential to be, important to the ecosystem of Projects or ecosystem as a whole. They may be early-stage projects just getting started, or they may be long-established projects with minimal resource needs. The Sandobox stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other LF Energy projects via the graduation process.
+Sandbox projects are projects which the TAC believes are, or have the potential to be, important to the ecosystem of Projects or ecosystem as a whole. They may be early-stage projects just getting started, or they may be long-established projects with minimal resource needs. The Sandbox stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other LF Energy projects via the graduation process.
 
 **Examples**
 
 1. New projects that are designed to extend one or more LF Energy projects with functionality or interoperability libraries. 
 1. Independent projects that fit within the LF Energy mission and provide potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need).
 1. Projects commissioned or sanctioned by LF Energy.
-1. Any project that realistically intends to join LF Energy Incubation or Mature Stages in the future and wishes to lay the foundations for that transition.
+1. Any project that realistically intends to join LF Energy Incubating or Graduated Stages in the future and wishes to lay the foundations for that transition.
 
 **Expectations**
 
@@ -131,7 +131,7 @@ To graduate from Sandbox or Incubator status, or for a new project to join with 
  * Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
  * Have a healthy number of maintainers from at least two organizations. A maintainer or committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
  * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
- * Receive a supermajority vote from the TAC to move to Graduated stage. Projects can move directly from Sandbox to Mature status if they can demonstrate sufficient maturity and have met all requirements. 
+ * Receive a supermajority vote from the TAC to move to Graduated stage. Projects can move directly from Sandbox to Graduated status if they can demonstrate sufficient maturity and have met all requirements. 
 
 
 ### Emeritus Stage
