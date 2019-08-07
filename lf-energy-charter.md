@@ -14,7 +14,7 @@ b. The Directed Fund supports the Technical Projects. The Directed Fund operates
     
 c. The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee, Technical Advisory Counsel, Budget Committee, Legal Committee and other working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by the Governing Board.  These committees report to the Governing Board.
 
-<b>2\. Membership.</b>
+<b>6\. Membership.</b>
 
 a. The Directed Fund will be composed of Premier, General and Associate Members (each, a “Member” and, collectively, the “Members”) in Good Standing. All Members must be current corporate members of the LF (at any level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the Directed Fund may adopt with notice to members.
     
