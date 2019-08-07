@@ -10,26 +10,43 @@ Effective July 12, 2018
     
     c. The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee, Technical Advisory Counsel, Budget Committee, Legal Committee and other working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by the Governing Board.  These committees report to the Governing Board.
     
-1. Membership.
+2. Membership.
+
     a. The Directed Fund will be composed of Premier, General and Associate Members (each, a “Member” and, collectively, the “Members”) in Good Standing. All Members must be current corporate members of the LF (at any level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the Directed Fund may adopt with notice to members.
-    a. Premier Members will be entitled to appoint a representative to the Governing Board and any Committee.
-    a. General Members, acting as a class, will be entitled to annually elect one representative to the Governing Board for every ten General Members, up to a maximum of three representatives, provided that there will always be at least one General Member representative, even if there are less than ten General Members. The Governing Board determines the election process.
-    a. The Associate Member category of membership is limited to Associate Members of The Linux Foundation and requires approval by the Governing Board, or, if the Governing Board sets additional criteria for joining the Directed Fund as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in the Directed Fund does not confer any benefits or rights to the members of the Associate Member. 
-    a. Members will be entitled to:
+    
+    b. Premier Members will be entitled to appoint a representative to the Governing Board and any Committee.
+    
+    c. General Members, acting as a class, will be entitled to annually elect one representative to the Governing Board for every ten General Members, up to a maximum of three representatives, provided that there will always be at least one General Member representative, even if there are less than ten General Members. The Governing Board determines the election process.
+
+    d. The Associate Member category of membership is limited to Associate Members of The Linux Foundation and requires approval by the Governing Board, or, if the Governing Board sets additional criteria for joining the Directed Fund as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in the Directed Fund does not confer any benefits or rights to the members of the Associate Member. 
+    
+    e. Members will be entitled to:
+
         i. participate in Directed Fund general meetings, initiatives, events and any other activities; and
-        i. identify themselves as members of the LF Energy Foundation supporting the LF Energy Foundation community.
-1. Governing Board
-    a. The Governing Board voting members will consist of: 
+
+        ii. identify themselves as members of the LF Energy Foundation supporting the LF Energy Foundation community.
+
+3. Governing Board.
+
+    a. The Governing Board voting members will consist of:
+    
         i. one representative appointed by each Premier Member; 
-        i. the TAC Representative (as defined herein); and
-        i. the elected General Member representative or representatives.
-    a. No single Member, company or set of Related Companies will be entitled to: (i) appoint or nominate for Membership class election more than one representative for the Governing Board. 
-i)	Please note that it will be acceptable for one Member to appoint or nominate a representative to the Governing Board and have another employee of their Related Companies serve as the TAC Representative on the Governing Board.
-    a. Conduct of Meetings
+        
+        ii. the TAC Representative (as defined herein); and
+        
+        iii. the elected General Member representative or representatives.
+        
+    b. No single Member, company or set of Related Companies will be entitled to: (i) appoint or nominate for Membership class election more than one representative for the Governing Board. 
+    
+        i. Please note that it will be acceptable for one Member to appoint or nominate a representative to the Governing Board and have another employee of their Related Companies serve as the TAC Representative on the Governing Board.
+        
+    c. Conduct of Meetings
+    
         i. Governing Board meetings will be limited to the Governing Board representatives, the Outreach Committee Chair, invited guests and LF staff. 
-        i. Governing Board meetings follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow one named representative to attend as an alternate.
-        i. The Governing Board meetings will be private unless decided otherwise by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board).
-    a. Officers
+        ii. Governing Board meetings follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow one named representative to attend as an alternate.
+        iii. The Governing Board meetings will be private unless decided otherwise by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board).
+        
+    d. Officers
         i. The officers (“Officers”) of the Directed Fund as of the first meeting of the Governing Board will be a Chairperson (“Chair”) and a Treasurer.  Additional Officer positions may be created by the Governing Board.
         i. The Chair will preside over meetings of the Governing Board, manage any day-to-day operational decisions, and will submit minutes for Governing Board approval. 
         i. The Treasurer will assist in the preparation of budgets for Governing Board approval, monitor expenses against the budget and authorize expenditures approved in the budget. 
