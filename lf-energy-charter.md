@@ -106,7 +106,7 @@ Effective July 12, 2018
 	<li>The Treasurer shall be chairperson of the Budget Committee.</li>
 </ol>
 
-<h3>8. Technical Advisory Council<h3>
+<h3>8. Technical Advisory Council</h3>
 
 <ol type="a">
 	<li>The role of the TAC is to facilitate communication and collaboration among the Technical Projects.  The TAC will be responsible for:
