@@ -4,9 +4,9 @@ Effective July 12, 2018
 
 <b>1\. Mission and Scope of the LF Energy Foundation.</b>
 
-a. one
-b. two
-c. three
+a) one
+b) two
+c) three
 
 a. The purpose of the Directed Fund is to raise, budget and spend funds in support of various open source and/or open standards projects relating to the generation, transmission, distribution and delivery of energy, including infrastructure and support initiatives related thereto (each such project, a “Technical Project”).  The governance of each Technical Project is as set forth in the applicable charter for each Technical Project.
     
