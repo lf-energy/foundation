@@ -22,34 +22,35 @@ Effective July 12, 2018
     
     e. Members will be entitled to:
 
-        i. participate in Directed Fund general meetings, initiatives, events and any other activities; and
+      i. participate in Directed Fund general meetings, initiatives, events and any other activities; and
 
-        ii. identify themselves as members of the LF Energy Foundation supporting the LF Energy Foundation community.
+      ii. identify themselves as members of the LF Energy Foundation supporting the LF Energy Foundation community.
 
 3. Governing Board.
 
     a. The Governing Board voting members will consist of:
     
-        i. one representative appointed by each Premier Member; 
+      i. one representative appointed by each Premier Member; 
         
-        ii. the TAC Representative (as defined herein); and
+      ii. the TAC Representative (as defined herein); and
         
-        iii. the elected General Member representative or representatives.
+      iii. the elected General Member representative or representatives.
         
     b. No single Member, company or set of Related Companies will be entitled to: (i) appoint or nominate for Membership class election more than one representative for the Governing Board. 
     
-        i. Please note that it will be acceptable for one Member to appoint or nominate a representative to the Governing Board and have another employee of their Related Companies serve as the TAC Representative on the Governing Board.
+      i. Please note that it will be acceptable for one Member to appoint or nominate a representative to the Governing Board and have another employee of their Related Companies serve as the TAC Representative on the Governing Board.
         
     c. Conduct of Meetings
     
-        i. Governing Board meetings will be limited to the Governing Board representatives, the Outreach Committee Chair, invited guests and LF staff. 
-        ii. Governing Board meetings follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow one named representative to attend as an alternate.
-        iii. The Governing Board meetings will be private unless decided otherwise by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board).
+      i. Governing Board meetings will be limited to the Governing Board representatives, the Outreach Committee Chair, invited guests and LF staff. 
+      ii. Governing Board meetings follow the requirements for quorum and voting outlined in this Charter. The Governing Board may decide whether to allow one named representative to attend as an alternate.
+      iii. The Governing Board meetings will be private unless decided otherwise by the Governing Board. The Governing Board may invite guests to participate in consideration of specific Governing Board topics (but such guest may not participate in any vote on any matter before the Governing Board).
         
     d. Officers
-        i. The officers (“Officers”) of the Directed Fund as of the first meeting of the Governing Board will be a Chairperson (“Chair”) and a Treasurer.  Additional Officer positions may be created by the Governing Board.
-        i. The Chair will preside over meetings of the Governing Board, manage any day-to-day operational decisions, and will submit minutes for Governing Board approval. 
-        i. The Treasurer will assist in the preparation of budgets for Governing Board approval, monitor expenses against the budget and authorize expenditures approved in the budget. 
+    
+      i. The officers (“Officers”) of the Directed Fund as of the first meeting of the Governing Board will be a Chairperson (“Chair”) and a Treasurer.  Additional Officer positions may be created by the Governing Board.
+      i. The Chair will preside over meetings of the Governing Board, manage any day-to-day operational decisions, and will submit minutes for Governing Board approval. 
+      i. The Treasurer will assist in the preparation of budgets for Governing Board approval, monitor expenses against the budget and authorize expenditures approved in the budget. 
     a. The Governing Board will be responsible for overall management of the Directed Fund, including: 
         i. approve a budget directing the use of funds raised by the Directed Fund from all sources of revenue;
         i. nominate and elect Officers of the Directed Fund;
