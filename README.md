@@ -8,6 +8,6 @@ idea -> discussion -> SIG or workgroup -> Sandbox stage -> Incubator stage -> Ma
 
 Guide to these documents:
 
-* [lf-energy-charter.md] - legal charter for LF Energy Foundation
-* [project-proposal.md] - defines proposal process for new projects
-* [project-stages.md] - defines project stages from Sandbox through Emeritus (based on LF template)
+* [lf-energy-charter.md](lf-energy-charter.md) - legal charter for LF Energy Foundation
+* [project-proposal.md](project-proposal.md) - defines proposal process for new projects
+* [project-stages.md](project-stages.md) - defines project stages from Sandbox through Emeritus (based on LF template)
