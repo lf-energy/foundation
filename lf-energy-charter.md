@@ -4,11 +4,11 @@ Effective July 12, 2018
 
 <b>1\. Mission and Scope of the LF Energy Foundation.</b>
 
-	a. The purpose of the Directed Fund is to raise, budget and spend funds in support of various open source and/or open standards projects relating to the generation, transmission, distribution and delivery of energy, including infrastructure and support initiatives related thereto (each such project, a “Technical Project”).  The governance of each Technical Project is as set forth in the applicable charter for each Technical Project.
+a. The purpose of the Directed Fund is to raise, budget and spend funds in support of various open source and/or open standards projects relating to the generation, transmission, distribution and delivery of energy, including infrastructure and support initiatives related thereto (each such project, a “Technical Project”).  The governance of each Technical Project is as set forth in the applicable charter for each Technical Project.
     
-	b. The Directed Fund supports the Technical Projects. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.
+b. The Directed Fund supports the Technical Projects. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.
     
-	c. The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee, Technical Advisory Counsel, Budget Committee, Legal Committee and other working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by the Governing Board.  These committees report to the Governing Board.
+c. The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee, Technical Advisory Counsel, Budget Committee, Legal Committee and other working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by the Governing Board.  These committees report to the Governing Board.
 
 <b>2\. Membership.</b>
 
@@ -22,11 +22,11 @@ d. The Associate Member category of membership is limited to Associate Members o
     
 e. Members will be entitled to:  
 
-    i. participate in Directed Fund general meetings, initiatives, events and any other activities; and  
+   i. participate in Directed Fund general meetings, initiatives, events and any other activities; and  
 
-    i. identify themselves as members of the LF Energy Foundation supporting the LF Energy Foundation community.
+   i. identify themselves as members of the LF Energy Foundation supporting the LF Energy Foundation community.
 
-3. Governing Board.
+<b>3\. Governing Board.</b>
 
     a. The Governing Board voting members will consist of:  
 
