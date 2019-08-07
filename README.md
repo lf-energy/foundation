@@ -4,7 +4,7 @@ This is a testbed for developing governance documents in July/August 2019. We ar
 
 In short, ideas become projects in a more or less linear fashion. Later stages include more direct support from LF Energy.
 
-<b>idea</b> -> <b>discussion</b> -> <b>SIG or workgroup</b> -> <b>Sandbox stage</b> -> <b>Incubator stage</b> -> <b>Graduated stage</b> -> <b>Emeritus stage</b>
+<b>idea</b> → <b>discussion</b> → <b>SIG or workgroup</b> → <b>Sandbox stage</b> → <b>Incubator stage</b> → <b>Graduated stage</b> → <b>Emeritus stage</b>
 
 Guide to these documents:
 
