@@ -19,8 +19,8 @@ Effective July 12, 2018
 	<li>Premier Members will be entitled to appoint a representative to the Governing Board and any Committee.</li>
 	<li>General Members, acting as a class, will be entitled to annually elect one representative to the Governing Board for every ten General Members, up to a maximum of three representatives, provided that there will always be at least one General Member representative, even if there are less than ten General Members. The Governing Board determines the election process.</li>
 	<li>The Associate Member category of membership is limited to Associate Members of The Linux Foundation and requires approval by the Governing Board, or, if the Governing Board sets additional criteria for joining the Directed Fund as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in the Directed Fund does not confer any benefits or rights to the members of the Associate Member.</li>
-	<li>Members will be entitled to:</li>
-	<li><ol type="i">
+	<li>Members will be entitled to:  
+	<ol type="i">
 		<li>participate in Directed Fund general meetings, initiatives, events and any other activities; and</li>
 		<li>identify themselves as members of the LF Energy Foundation supporting the LF Energy Foundation community.</li>
 		</ol>
