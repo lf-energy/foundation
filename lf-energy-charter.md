@@ -10,28 +10,22 @@ Effective July 12, 2018
 <li>The Directed Fund supports the Technical Projects. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.</li>
 
 <li>The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee, Technical Advisory Counsel, Budget Committee, Legal Committee and other working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by the Governing Board.  These committees report to the Governing Board.</li>
-<li><ol type="i">
-	<li>foo</li>
-	<li>bar</li>
-	</ol>
-	</li>
 </ol>
 
 <b>2\. Membership.</b>
 
-a. The Directed Fund will be composed of Premier, General and Associate Members (each, a “Member” and, collectively, the “Members”) in Good Standing. All Members must be current corporate members of the LF (at any level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the Directed Fund may adopt with notice to members.
-    
-b. Premier Members will be entitled to appoint a representative to the Governing Board and any Committee.
-    
-c. General Members, acting as a class, will be entitled to annually elect one representative to the Governing Board for every ten General Members, up to a maximum of three representatives, provided that there will always be at least one General Member representative, even if there are less than ten General Members. The Governing Board determines the election process.
-
-d. The Associate Member category of membership is limited to Associate Members of The Linux Foundation and requires approval by the Governing Board, or, if the Governing Board sets additional criteria for joining the Directed Fund as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in the Directed Fund does not confer any benefits or rights to the members of the Associate Member. 
-    
-e. Members will be entitled to:  
-
-   i. participate in Directed Fund general meetings, initiatives, events and any other activities; and  
-
-   i. identify themselves as members of the LF Energy Foundation supporting the LF Energy Foundation community.
+<ol>
+	<li>The Directed Fund will be composed of Premier, General and Associate Members (each, a “Member” and, collectively, the “Members”) in Good Standing. All Members must be current corporate members of the LF (at any level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the Directed Fund may adopt with notice to members.</li>
+	<li>Premier Members will be entitled to appoint a representative to the Governing Board and any Committee.</li>
+	<li>General Members, acting as a class, will be entitled to annually elect one representative to the Governing Board for every ten General Members, up to a maximum of three representatives, provided that there will always be at least one General Member representative, even if there are less than ten General Members. The Governing Board determines the election process.</li>
+	<li>The Associate Member category of membership is limited to Associate Members of The Linux Foundation and requires approval by the Governing Board, or, if the Governing Board sets additional criteria for joining the Directed Fund as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in the Directed Fund does not confer any benefits or rights to the members of the Associate Member.</li>
+	<li>Members will be entitled to:</li>
+	<li><ol type="i">
+		<li>participate in Directed Fund general meetings, initiatives, events and any other activities; and</li>
+		<li>identify themselves as members of the LF Energy Foundation supporting the LF Energy Foundation community.</li>
+		</ol>
+	</li>
+</ol>
 
 <b>3\. Governing Board.</b>
 
