@@ -4,15 +4,13 @@ Effective July 12, 2018
 
 <b>1\. Mission and Scope of the LF Energy Foundation.</b>
 
-1) one
-1) two
-1) three
+<ol type="a>
+<li>The purpose of the Directed Fund is to raise, budget and spend funds in support of various open source and/or open standards projects relating to the generation, transmission, distribution and delivery of energy, including infrastructure and support initiatives related thereto (each such project, a “Technical Project”).  The governance of each Technical Project is as set forth in the applicable charter for each Technical Project.</li>
 
-a. The purpose of the Directed Fund is to raise, budget and spend funds in support of various open source and/or open standards projects relating to the generation, transmission, distribution and delivery of energy, including infrastructure and support initiatives related thereto (each such project, a “Technical Project”).  The governance of each Technical Project is as set forth in the applicable charter for each Technical Project.
-    
-b. The Directed Fund supports the Technical Projects. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.
-    
-c. The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee, Technical Advisory Counsel, Budget Committee, Legal Committee and other working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by the Governing Board.  These committees report to the Governing Board.
+<li>The Directed Fund supports the Technical Projects. The Directed Fund operates under the guidance of the Governing Board of the Directed Fund (the “Governing Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.</li>
+
+<li>The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee, Technical Advisory Counsel, Budget Committee, Legal Committee and other working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by the Governing Board.  These committees report to the Governing Board.</li>
+</ol>
 
 <b>2\. Membership.</b>
 
