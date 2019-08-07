@@ -2,7 +2,7 @@
 The Linux Foundation  
 Effective July 12, 2018
 
-<h3>1\. Mission and Scope of the LF Energy Foundation.</h3>
+<h3>1. Mission and Scope of the LF Energy Foundation</h3>
 
 <ol type="a">
 <li>The purpose of the Directed Fund is to raise, budget and spend funds in support of various open source and/or open standards projects relating to the generation, transmission, distribution and delivery of energy, including infrastructure and support initiatives related thereto (each such project, a “Technical Project”).  The governance of each Technical Project is as set forth in the applicable charter for each Technical Project.</li>
@@ -12,7 +12,7 @@ Effective July 12, 2018
 <li>The Governing Board manages the Directed Fund. The Directed Fund will also have an Outreach Committee, Technical Advisory Counsel, Budget Committee, Legal Committee and other working groups, councils, committees and similar bodies (collectively, “Committees”) that may be established by the Governing Board.  These committees report to the Governing Board.</li>
 </ol>
 
-<b>2\. Membership.</b>
+<h3>2. Membership</h3>
 
 <ol>
 	<li>The Directed Fund will be composed of Premier, General and Associate Members (each, a “Member” and, collectively, the “Members”) in Good Standing. All Members must be current corporate members of the LF (at any level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the Directed Fund may adopt with notice to members.</li>
@@ -27,7 +27,7 @@ Effective July 12, 2018
 	</li>
 </ol>
 
-<b>3\. Governing Board.</b>
+<h3>3. Governing Board</h3>
 
 <ol type="a">
 	<li>The Governing Board voting members will consist of:
@@ -68,7 +68,7 @@ Effective July 12, 2018
 		</ol></li>
 </ol>
 
-<b>4\. Outreach Committee</b>
+<h3>4. Outreach Committee</h3>
 
 <ol type="a">
 	<li>The Outreach Committee will include one appointed voting representative from each Premier Member. Each General Member may appoint a non-voting representative to observe and contribute ideas to the Outreach Committee.</li>
@@ -76,14 +76,14 @@ Effective July 12, 2018
 	<li>The Governing Board may appoint a chairperson of the Outreach Committee or delegate responsibility for selecting a chairperson to the Outreach Committee. The Outreach Committee chairperson will be responsible for reporting progress back to the Governing Board. The Outreach Committee chairperson may attend meetings of the Governing Board, but, unless the Outreach Committee chairperson is a member of the Governing Board, the Outreach Committee chairperson will not attend as a voting member of the Governing Board.</li>
 </ol>
 
-5. Advisory Committees
+<h3>5. Advisory Committees</h3>
 
 <ol type="a">
 	<li>Following the first meeting of the Governing Board, the Governing Board will establish an end-user advisory committee (the “EUAC”) and Academic Advisory Committee (the “AAC”), which will operate pursuant to charters approved by the Governing Board. The EUAC and AAC charters will provide for (a) criteria for the determination of eligible participants, (b) a limit of one representative per organization on either committee, (c) the election of a chair to set agendas for meetings and facilitate communication with the Governing Board and the TAC.</li>
 	<li>It is anticipated that the mission and scope of the advisory committees will solicit feedback and direction from the end-user and academic communities in order to identify development, outreach and education opportunities for the Technical Effort.  It is also expected that end-user and academic participants may leverage the committees as an entry-point for interactions with the Technical Effort.</li>
 </ol>
 
-<b>6\. Legal Committee</b>
+<h3>6. Legal Committee</h3>
 
 <ol type="a">
     a. The Legal Committee will consist of members of the Governing Board that wish to participate on the Legal Committee together with their legal counsel. Participation on the Legal Committee is voluntary, and the makeup of the Legal Committee will be determined annually or as otherwise directed by the Governing Board.</li>
@@ -91,7 +91,7 @@ Effective July 12, 2018
 	<li>The Legal Committee will select, from among those Governing Board representatives that are participating on the Legal Committee, a chairperson of the Legal Committee who will call meetings, drive the agenda and communicate findings or recommendations of the Legal Committee to the Governing Board.</li>
 </ol>
 
-7. Budget Committee
+<h3>7. Budget Committee</h3>
 
 <ol type="a">
 	<li>The Budget Committee will consist of representatives of the Governing Board that volunteer to be a named participant on the Budget Committee.</li>
@@ -106,7 +106,7 @@ Effective July 12, 2018
 	<li>The Treasurer shall be chairperson of the Budget Committee.</li>
 </ol>
 
-8. Technical Advisory Council
+<h3>8. Technical Advisory Council<h3>
 
 <ol type="a">
 	<li>The role of the TAC is to facilitate communication and collaboration among the Technical Projects.  The TAC will be responsible for:
@@ -127,7 +127,7 @@ Effective July 12, 2018
 	<li>The TAC representatives will elect a chair to preside over meetings, ensure minutes are taken and drive the TAC agenda with input from the TAC representatives.</li>
 </ol>
 
-9. Voting
+<h3>9. Voting</h3>
 
 <ol type="a">
 	<li>Quorum for Governing Board and Committee meetings will require at least fifty percent of the voting representatives. If advance notice of the meeting has been given per normal means and timing, the Governing Board may continue to meet even if quorum is not met, but will be prevented from making any decisions at the meeting.</li>
@@ -136,7 +136,7 @@ Effective July 12, 2018
 	<li>In the event of a tied vote with respect to an action that cannot be resolved by the Governing Board, the Chair may refer the matter to the LF for assistance in reaching a decision. If there is a tied vote in any Committee that cannot be resolved, the matter may be referred to the Governing Board.</li>
 </ol>
 
-10. Subsidiaries and Related Companies
+<h3>10. Subsidiaries and Related Companies</h3>
 
 <ol type="a">
 	<li>Definitions:
@@ -150,26 +150,26 @@ Effective July 12, 2018
 	<li>Directed Fund Membership is non-transferable, non-salable and non-assignable, except a Member may transfer its current Membership benefits and obligations to a successor of substantially all of its business or assets, whether by merger, sale or otherwise; provided that the transferee agrees to be bound by this Charter and the Bylaws and policies required by LF membership.</li>
 </ol>
 
-11. Good Standing
+<h3>11. Good Standing</h3>
 
 <ol type="a">
 	<li>The Linux Foundation’s Good Standing Policy is available at https://www.linuxfoundation.org/good-standing-policy and will apply to Members of this Directed Fund.</li>
 </ol>
 
-12. Trademarks
+<h3>12. Trademarks</h3>
 
 <ol type="a">
 	<li>Any trademarks relating to the Directed Fund or any Technical Project, including without limitation any mark relating to any Conformance Program, must be transferred to and held by LF Projects, LLC and available for use pursuant to LF Projects, LLC’s trademark usage policy, available at www.lfprojects.org/trademarks/.</li>
 </ol>
 
-13. Antitrust Guidelines
+<h3>13. Antitrust Guidelines</h3>
 
 <ol type="a">
 	<li>All Members must abide by The Linux Foundation’s Antitrust Policy available at http://www.linuxfoundation.org/antitrust-policy.</li>
 	<li>All Members must encourage open participation from any organization able to meet the membership requirements, regardless of competitive interests. Put another way, the Governing Board will not seek to exclude any member based on any criteria, requirements or reasons other than those that are reasonable and applied on a non-discriminatory basis to all members.</li>
 </ol>
 
-14. Budget
+<h3>14. Budget</h3>
 
 <ol type="a">
     a. The Governing Board will approve an annual budget and never commit to spend in excess of funds raised. The budget and the purposes to which it is applied must be consistent with both (a) the non-profit and tax-exempt mission of The Linux Foundation and (b) the aggregate goals of the Technical Projects.</li>
@@ -177,14 +177,14 @@ Effective July 12, 2018
 	<li>In the event an unbudgeted or otherwise unfunded obligation arises related to the Directed Fund, The Linux Foundation will coordinate with the Governing Board to address gap funding requirements.</li>
 </ol>
 
-15. General & Administrative Expenses
+<h3>15. General & Administrative Expenses</h3>
 
 <ol type="a">
 	<li>The Linux Foundation will have custody of and final authority over the usage of any fees, funds and other cash receipts.</li>
 	<li>A General & Administrative (G&A) fee will be applied by the Linux Foundation to funds raised to cover Finance, Accounting, and operations. The G&A fee will be 9% of the Directed Fund’s first $1,000,000 of gross receipts each year and 6% of the Directed Fund’s gross receipts each year over $1,000,000.</li>
 </ol>
 
-16. General Rules and Operations. 
+<h3>16. General Rules and Operations</h3>
 
 The Directed Fund activities must:
 
@@ -195,7 +195,7 @@ The Directed Fund activities must:
 	<li>operate under such rules and procedures as may be approved by the Governing Board and confirmed by The Linux Foundation.</li>
 </ol>
 
-17. Amendments
+<h3>17. Amendments</h3>
 
 <ol type="a">
 	<li>This Charter may be amended by a two-thirds vote of the entire Governing Board, subject to approval by The Linux Foundation.</li>
