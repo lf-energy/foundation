@@ -20,19 +20,16 @@ Effective July 12, 2018
 
     d. The Associate Member category of membership is limited to Associate Members of The Linux Foundation and requires approval by the Governing Board, or, if the Governing Board sets additional criteria for joining the Directed Fund as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in the Directed Fund does not confer any benefits or rights to the members of the Associate Member. 
     
-    e. Members will be entitled to:
-        i. participate in Directed Fund general meetings, initiatives, events and any other activities; and
+    e. Members will be entitled to:  
+        i. participate in Directed Fund general meetings, initiatives, events and any other activities; and  
         ii. identify themselves as members of the LF Energy Foundation supporting the LF Energy Foundation community.
 
 3. Governing Board.
 
-    a. The Governing Board voting members will consist of:
-    
-      i. one representative appointed by each Premier Member; 
-        
-      ii. the TAC Representative (as defined herein); and
-        
-      iii. the elected General Member representative or representatives.
+    a. The Governing Board voting members will consist of:  
+        i. one representative appointed by each Premier Member;  
+        ii. the TAC Representative (as defined herein); and  
+        iii. the elected General Member representative or representatives.
         
     b. No single Member, company or set of Related Companies will be entitled to: (i) appoint or nominate for Membership class election more than one representative for the Governing Board. 
     
