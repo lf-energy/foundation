@@ -12,7 +12,7 @@ For more information about how your project can benefit from LF Energy membershi
 This governance policy sets forth the proposal process for projects to be accepted into LF Energy. The process is the same for both existing projects which seek to move into LF Energy and new projects to be formed within LF Energy. 
 
 ### Project Proposal Requirements
-Projects must be formally proposed via GitHub. For more details see [project-proposal.md]()
+Projects must be formally proposed via GitHub. For more details see [](project-proposal.md)
 
 ### Project Acceptance Process
 * Projects are required to present their proposal at a TAC meeting
