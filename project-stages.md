@@ -3,7 +3,7 @@ This governance policy describes how an open source project can formally join LF
 
 Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all LF Energy projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources.
 
-![SIG and/or WG → Sandbox Project → Incubating Project → Graduated Project (→ Emeritus Project)](https://github.com/lf-energy/governance/blob/master/project-stages.png)
+![SIG and/or WG → Sandbox Project → Incubating Project → Graduated Project (→ Emeritus Project)](https://github.com/lf-energy/governance/blob/master/lfenergy-project-stages.png)
 
 For more information about how your project can benefit from LF Energy membership and services, please see [TBD Document]().
 
