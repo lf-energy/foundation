@@ -1,6 +1,6 @@
 # Project Proposal Process
 
-This is a **draft** document describing criteria for project proposals to the TAC. Needs to stay in sync with other docs & be confirmed by TAC before creating an actual form.
+**NOTE** *This is a **draft** document describing criteria for project proposals to the TAC. Needs to stay in sync with other docs & be confirmed by TAC, then we will work on creating a form that will submit this information directly to tac@lists.lfenergy.org*
 
 For all incoming and graduating projects, the TAC is responsible for ensuring that graduation requirements have been met.
 
