@@ -8,6 +8,7 @@ In short, ideas become projects in a more or less linear fashion. Later stages i
 
 Guide to these documents:
 
+* [current-projects.md](current-projects.md) - basic information and links for current LF Energy projects
 * [lf-energy-charter.md](lf-energy-charter.md) - legal charter for LF Energy Foundation
 * [lfenergy-project-stages.png](lfenergy-project-stages) - diagram showing project stages
 * [project-annual-review.md](project-annual-review.md) - annual review process
