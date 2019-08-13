@@ -12,14 +12,14 @@ This stage has five goals:
 
 ## What is the LF Energy Sandbox
 
-The LF Energy Sandbox is intended to provide an avenue for technically interesting early-stage projects that are beneficial to the power systems community. Sandbox projects should be early-stage projects that the LF Energy TAC believes warrant experimentation. The Sandbox should provide a beneficial, neutral home for such projects, in order to foster collaborative development. We aspire to make the Sandbox the preferred path for early-stage projects to enter the LFE. More mature projects can continue to jump directly to incubation, but as the power systems and energy ecosystem grows, we expect to see proportionally more early-stage projects.
+The LF Energy Sandbox is intended to provide an avenue for technically interesting early-stage projects that are beneficial to the power systems community. Sandbox projects should be early-stage projects that the LF Energy TAC believes warrant experimentation. The Sandbox should provide a beneficial, neutral home for such projects, in order to foster collaborative development. We aspire to make the Sandbox the preferred path for early-stage projects to be included in LF Energy. More mature projects can continue to jump directly to incubation, but as the power systems and energy ecosystem grows, we expect to see proportionally more early-stage projects.
 
 ## Early Stage
 
 When we say that Sandbox projects are "early stage" this covers the following examples:
 
-* New projects that are designed to extend one or more LFE projects with functionality or increased interoperability. 
-* Independent projects that fit the LFE mission and provide potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need)
+* New projects that are designed to extend one or more LF Energy projects with functionality or increased interoperability. 
+* Independent projects that fit the LF Energy mission and provide potential for a novel approach to existing functional areas (or are an attempt to meet an unfulfilled need)
 * Projects commissioned or sanctioned by LF Energy, including initial code for WG collaborations, and "experimental" projects
 * Any project that realistically intends to operate at the LF Energy Incubator stage in future, and wishes to lay the foundations for elevation to that stage 
 
@@ -43,20 +43,20 @@ Therefore the advantages of being in the Sandbox apply prior to application for 
 
 * That a project has a legally neutral home that is stable and known
 * And that a project may attain Incubation-level success faster:
-* Due to public visibility and association with the LFE mission
-* Through alignment with other LFE projects (if and only if desired)
+* Due to public visibility and association with the LF Energy mission
+* Through alignment with other LF Energy projects
 * Via LF Energy Service Desk etc.
 * The LF Energy will help projects adopt good principles of governance
 
 ### Neutral Home
 
-A neutral home for your project increases the willingness of developers from other companies and independent developers to collaborate, contribute, and become committers. Neutrality requires that projects contribute their trademark to LFE so that no company is favored over any other. LF Energy ensures project governance is transparent and fair for everyone.
+A neutral home for your project increases the willingness of developers from other companies and independent developers to collaborate, contribute, and become committers. Neutrality requires that projects contribute their trademark to LF Energy so that no company is favored over any other. LF Energy ensures project governance is transparent and fair for everyone.
 
 ## Clarifying Marketing Expectations
 
-All open source projects in some sense enjoy a level of promotion from community, user enthusiasm, sponsoring organisations and so on. Please note that in this section we discuss marketing as a measurable financial investment into LFE projects from the LFE marketing budget and staff.
+All open source projects in some sense enjoy a level of promotion from community, user enthusiasm, sponsoring organisations and so on. Please note that in this section we discuss marketing as a measurable financial investment into LF Energy projects from the LF Energy marketing budget and staff.
 
-LFE has and plans to invest in marketing to educate users and grow awareness about the digitalization of energy, including the purpose and benefits of open source, as a means to foster community, and to accelerate production use of projects. These investments fall into at least three types:
+LF Energy has and plans to invest in marketing to educate users and grow awareness about the digitalization of energy, including the purpose and benefits of open source, as a means to foster community, and to accelerate production use of projects. These investments fall into at least three types:
 
 Developer community support: hangouts, meetups, events and (some) conferences
 Digital marketing: help with online content, interactive tutorials, webinars, and social
@@ -64,11 +64,11 @@ Product marketing: conference promotion, landscape, certification, case studies,
 
 Since the Sandbox is for early stage, sandbox projects will receive minimal marketing support from the foundation. The Sandbox group as a whole may be promoted from time to time.
 
-LF Energy will lean towards developer community support and the LF Energy service desk, to help discovery and initial steps towards LFE Incubation. There will only be limited LFE investment in Digital and Product marketing for individual Sandbox projects, and LFE-funded content should be factual and informative.
+LF Energy will lean towards developer community support and the LF Energy service desk, to help discovery and initial steps towards LF Energy Incubation. There will only be limited LF Energy investment in Digital and Product marketing for individual Sandbox projects, and LF Energy-funded content should be factual and informative.
 
 Some key points:
 
-* Sandbox projects will be listed separately from other LFE projects on the website
+* Sandbox projects will be listed separately from other LF Energy projects on the website
 * They will not be prominently listed at our events or issued a press release
 * Project eviewed on an annual basis; submit a report to the TAC for review
 * Sandbox projects can stay in the sandbox indefinitely, but are expected to create a roadmap for eventual elevation
