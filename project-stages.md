@@ -1,12 +1,33 @@
 ## I. Overview
-This governance policy describes how an open source project can formally join LF Energy via the [Project Proposal Process](). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
+This governance policy describes how an open source project can formally join LF Energy via the [Project Proposal Process](governance/project-proposal.md). It describes the [Stages]() a project may be admitted under and what the criteria and expectations are for a given stage, as well as the acceptance criteria for a project to move from one stage to another. It also describes the [Annual Review Process]() through which those changes will be evaluated and made. 
 
 Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all LF Energy projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources.
 
+![SIG and/or WG → Sandbox Project → Incubating Project → Graduated Project (→ Emeritus Project)](https://github.com/lf-energy/governance/blob/master/project-stages.png)
+
 For more information about how your project can benefit from LF Energy membership and services, please see [TBD Document]().
 
+## II. Stages - Definitions & Expectations
+Every LF Energy project has an associated maturity level. Proposed projects should state their stage, along with guidance on why that stage is appropriate.
 
-## II. Project Proposal Process
+All projects may attend TAC meetings and contribute work regardless of their stage. 
+
+The following table summarizes LF Energy project maturity stages, along with the services LF Energy provides at least stage. In brief, there are three actual project maturity stages, which indicates that a project has been accepted by the TAC, has a legal charter from LF Energy, and trademarks are managed by LF. We describe the pre-project process as a fourth level, either a Special Interest Group or a Working Group, as a great deal of work is done prior to the project’s formation. We also recognize the end of a project’s useful progress.
+
+  SIG and/or WG → Sandbox Project → Incubating Project → Graduated Project (→ Emeritus Project)
+
+| Stage Requirements & Expectations | Services Offered by LF Energy |
+| --------------------------------- | ----------------------------- |
+| **SIG** - special interest group; **WG** - working group | |
+| <ul><li>Discussion of ideas & solutions</li><li>Plans for potential projects</li><li>Can be proposed by anyone</li><li>Discussion must stay relevant & active</li></ul> | <ul><li>a single mailing list (lists.lfenergy.org)</li><li>meeting support:<ul><li>calendar support (lists.lfenergy.org)</li><li>folder for notes (lists.lfenergy.org)</li><li>Zoom meeting support (zoom.us)</li></ul></li></ul> |
+| **Sandbox Project** | |
+| <ul><li>2 TAC sponsors</li><li>Presentation to TAC</li><li>Adherence to IP Policy, adopt LF Energy CoC </li><li>Final acceptance by TAC (⅔ majority)</li><li>Operating TSC with appointed chair</li></ul> | <ul><li>a set of project mailing lists</li><li>recognition on website on sandbox projects page</li><li>legal support: charter & trademark curation</li><li>TAC mentoring & guidance</li><li>PM curation of a github page, if required</li><li>PM help in building a developer community</li></ul> |
+| **Incubating Project** | |
+| <ul><li>Growth plan accepted by TAC</li><li>Operating TSC with elected chair</li><li>Used in production by 2 end users</li><li>Ongoing flow of commits</li><li>Community participation measurable w/growth plan</li><li>Documented public description of governance</li><li>Final acceptance by TAC (⅔ majority)</li></ul> | <ul><li>a fully built-out web page</li><li>inclusion of milestones in press releases</li><li>TAC seat for TSC chair</li></ul> |
+| **Graduated Project** | |
+| <ul><li>Defined governing body (TSC) of 5 or more disparate members (< ½ at same organizations)</li><li>Documented public desc of release/testing process</li><li>Maintainers from at least 2 orgs</li><li>Public list of project adopters</li><li>Final acceptance by TAC (⅔ majority)</li></ul> | <ul><li>a fully built-out set of web pages</li><li>1-2 project-specific press releases per year </li><li>(i.e. following release schedule)</li><li>Release and other financial support TBD</li></ul> |
+
+## III. Project Proposal Process
 
 ### Introduction
 This governance policy sets forth the proposal process for projects to be accepted into LF Energy. The process is the same for both existing projects which seek to move into LF Energy and new projects to be formed within LF Energy. 
@@ -21,11 +42,6 @@ Projects must be formally proposed via GitHub. For more details see [](project-p
 * Projects are accepted via a 2/3 supermajority vote of the TAC.
 * The proposal document will be finalized as a project charter. This charter document must be included in the project's main repository.
 * The TAC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process. 
-
-## III. Stages - Definitions & Expectations
-Every LF Energy project has an associated maturity level. Proposed projects should state their preferred maturity level.
-
-All projects may attend TAC meetings and contribute work regardless of their stage. 
 
 
 ### Sandbox Projects
@@ -136,3 +152,5 @@ Projects may be granted Emeritus status via a 2/3 vote from the TAC and with app
 ## IV. Annual Review Process
 
 The TAC shall develop an annual review process to determine whether projects are in the stage that accurately reflects their needs and goals. 
+
+
