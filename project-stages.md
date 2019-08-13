@@ -27,23 +27,6 @@ The following table summarizes LF Energy project maturity stages, along with the
 | **Graduated Project** | |
 | <ul><li>Defined governing body (TSC) of 5 or more disparate members (< ½ at same organizations)</li><li>Documented public desc of release/testing process</li><li>Maintainers from at least 2 orgs</li><li>Public list of project adopters</li><li>Final acceptance by TAC (⅔ majority)</li></ul> | <ul><li>a fully built-out set of web pages</li><li>1-2 project-specific press releases per year </li><li>(i.e. following release schedule)</li><li>Release and other financial support TBD</li></ul> |
 
-## III. Project Proposal Process
-
-### Introduction
-This governance policy sets forth the proposal process for projects to be accepted into LF Energy. The process is the same for both existing projects which seek to move into LF Energy and new projects to be formed within LF Energy. 
-
-### Project Proposal Requirements
-Projects must be formally proposed via GitHub. For more details see [](project-proposal.md)
-
-### Project Acceptance Process
-* Projects are required to present their proposal at a TAC meeting
-* The TAC may ask for changes to bring the project into better alignment with LF Energy (adding a governance document to a repository or adopting a Code of Conduct, for example).
- * The project will need to make these changes in order to progress further.
-* Projects are accepted via a 2/3 supermajority vote of the TAC.
-* The proposal document will be finalized as a project charter. This charter document must be included in the project's main repository.
-* The TAC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process. 
-
-
 ### Sandbox Projects
 **Definition** 
 
@@ -147,6 +130,22 @@ Projects in this stage are not in active development. Their maintainers may infr
 **Acceptance Criteria**
 
 Projects may be granted Emeritus status via a 2/3 vote from the TAC and with approval from project ownership. In cases where there is a lack of project ownership, only a 2/3 vote from the TAC is required.
+
+## III. Project Proposal Process
+
+### Introduction
+This governance policy sets forth the proposal process for projects to be accepted into LF Energy. The process is the same for both existing projects which seek to move into LF Energy and new projects to be formed within LF Energy. 
+
+### Project Proposal Requirements
+Projects must be formally proposed via GitHub. For more details see [project-proposal.md](project-proposal.md)
+
+### Project Acceptance Process
+* Projects are required to present their proposal at a TAC meeting
+* The TAC may ask for changes to bring the project into better alignment with LF Energy (adding a governance document to a repository or adopting a Code of Conduct, for example).
+ * The project will need to make these changes in order to progress further.
+* Projects are accepted via a 2/3 supermajority vote of the TAC.
+* The proposal document will be finalized as a project charter. This charter document must be included in the project's main repository.
+* The TAC will determine the appropriate initial stage for the project. The project can apply for a different stage via the review process. 
 
 
 ## IV. Annual Review Process
