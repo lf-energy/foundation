@@ -5,7 +5,7 @@ The following projects have been added into the LF Energy portfolio. These proje
 | Project | Repository | Mailing List | TSC Chair |
 | ------- | ---------- | ------------ | --------- |
 | [PowSyBl](https://www.lfenergy.org/projects/#powsybl) | | |
-| [OperatorFabric](https://www.lfenergy.org/projects/#opfab) | | |
+| [OperatorFabric](https://www.lfenergy.org/projects/#opfab) | | Hanae SAFI, RTE|
 | [OpenEEmeter](https://www.lfenergy.org/projects/#openeemeter) | | Phil Ngo, Recurve |
 | [OEDI](https://www.lfenergy.org/projects/#oedi) | | Debbie Brodt-Giles, NREL |
 | [RIAPS](https://www.lfenergy.org/projects/#riaps) | | Gabor Karsai, Vanderbilt |
