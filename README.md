@@ -8,6 +8,10 @@ In short, ideas become projects in a more or less linear fashion. Later stages i
 
 Guide to these documents:
 
+* [current-projects.md](current-projects.md) - basic information and links for current LF Energy projects
 * [lf-energy-charter.md](lf-energy-charter.md) - legal charter for LF Energy Foundation
+* [lfenergy-project-stages.png](lfenergy-project-stages) - diagram showing project stages
+* [project-annual-review.md](project-annual-review.md) - annual review process
 * [project-proposal.md](project-proposal.md) - defines proposal process for new projects
 * [project-stages.md](project-stages.md) - defines project stages from Sandbox through Emeritus (based on LF template)
+* [sandbox-requirements.md](sandbox-requirements.md) - guideline for new projects entering at sandbox stage

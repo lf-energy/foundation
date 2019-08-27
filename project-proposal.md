@@ -16,7 +16,6 @@ All projects are assumed to start at Sandbox status unless the TAC has verified 
 
 Projects must be formally proposed via GitHub Issues (is this correct? where should these requests be made?). Project proposals submitted to LF Energy should provide the following information to the best of their ability:
 
-
 **General information:**
 
 - Name of project
@@ -74,7 +73,7 @@ Projects must be formally proposed via GitHub Issues (is this correct? where sho
 - Projects are required to present their proposal at an LF Energy Technical Advisory Committee (TAC) meeting.
 - The TAC may ask for changes to bring the project into better alignment with LF Energy, such as adding a governance document to a repository or adopting a Code of Conduct.
   - The project will need to make these changes in order to be considered further.
-- Projects are accepted via a 2/3 supermajority vote of the TAC, excluding abstentions.
+- Projects are accepted via a 2/3 supermajority vote of the TAC, excluding abstentions. << to be discussed - how do we handle abstensions?
 - The proposal document will be finalized as a project charter. This charter document must be included in the project's main repository.
 - The TAC will determine the appropriate initial stage for the project based on the evidence submitted. New projects can apply for admission at Sandbox or Incubating stage via the review process.
 
@@ -90,4 +89,3 @@ III. Acceptance & Expectations
 - All projects may attend TAC meetings and contribute work regardless of their stage.
 - Sandbox projects will be featured on the LF Energy projects page.
 - All trademarks for Sandbox, Incubating, Graduated, and Emeritus projects are retained by LF Energy.
-- 
