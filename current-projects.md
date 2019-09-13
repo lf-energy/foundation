@@ -4,7 +4,7 @@ The following projects have been added into the LF Energy portfolio. These proje
 
 | Project | Repository | Mailing List | TSC Chair |
 | ------- | ---------- | ------------ | --------- |
-| [PowSyBl](https://www.lfenergy.org/projects/#powsybl) | | | |
+| [PowSyBl](https://www.lfenergy.org/projects/#powsybl) | https://github.com/powsybl | powsybl@lists.lfenergy.org | Anne Tilloy |
 | [OperatorFabric](https://www.lfenergy.org/projects/#opfab) | | | |
 | [OpenEEmeter](https://www.lfenergy.org/projects/#openeemeter) | | | Phil Ngo, Recurve |
 | [OEDI](https://www.lfenergy.org/projects/#oedi) | | | Debbie Brodt-Giles, NREL |
