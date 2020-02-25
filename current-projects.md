@@ -9,6 +9,7 @@ The following projects have been added into the LF Energy portfolio. These proje
 | [OpenEEmeter](https://www.lfenergy.org/projects/#openeemeter) | | | Phil Ngo, Recurve |
 | [OEDI](https://www.lfenergy.org/projects/#oedi) | | | Debbie Brodt-Giles, NREL |
 | [RIAPS](https://www.lfenergy.org/projects/#riaps) | | | Gabor Karsai, Vanderbilt |
+| GXF | | | |
 
 The following projects are adjacent to LF Energy. Either these projects are strongly dependent on, or are depended on by, an LF Energy project. They are not curated by LF Energy.
 
