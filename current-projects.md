@@ -4,8 +4,8 @@ The following projects have been added into the LF Energy portfolio. These proje
 
 | Project | Repository | Mailing List | TSC Chair |
 | ------- | ---------- | ------------ | --------- |
-| [PowSyBl](https://www.lfenergy.org/projects/powsybl) | [GitHub](]https://github.com/powsybl) | [lists.lfenergy.org](https://lists.lfenergy.org/g/powsybl) | Anne Tilloy, RTE |
-| [OperatorFabric](https://www.lfenergy.org/projects/opfab) | [GitHub](https://github.com/opfab) | [lists.lfenergy.org](https://lists.lfenergy.org/g/opfab) | Hanae SAFI, RTE |
+| [PowSyBl](https://www.lfenergy.org/projects/powsybl) | [GitHub](https://github.com/powsybl) | [lists.lfenergy.org](https://lists.lfenergy.org/g/powsybl) | Anne Tilloy, RTE |
+| [OperatorFabric](https://www.lfenergy.org/projects/opfab) | [GitHub](https://github.com/opfab) | [lists.lfenergy.org](https://lists.lfenergy.org/g/opfab) | Hanae Safi, RTE |
 | [OpenEEmeter](https://www.lfenergy.org/projects/openeemeter) | [GitHub](https://github.com/openeemeter) | [lists.lfenergy.org](https://lists.lfenergy.org/g/openeemeter) | Phil Ngo, Recurve |
 | [OEDI](https://www.lfenergy.org/projects/oedi) | [GitHub](https://github.com/openEDI) | [lists.lfenergy.org](https://lists.lfenergy.org/g/oedi) | Debbie Brodt-Giles, NREL |
 | [RIAPS](https://www.lfenergy.org/projects/riaps) | [GitHub](https://github.com/RIAPS) | [lists.lfenergy.org](https://lists.lfenergy.org/g/riaps) | Gabor Karsai, Vanderbilt |
