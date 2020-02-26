@@ -12,7 +12,7 @@ This policy sets forth the proposal process for projects to be accepted into LF 
 
 All projects are assumed to start at Sandbox status unless the TAC has verified that stage advancement requirements have been met.
 
-### Sandbox Project Proposal Requirements
+### Incubation Project Proposal Requirements
 
 Projects must be formally proposed via GitHub Issues (is this correct? where should these requests be made?). Project proposals submitted to LF Energy should provide the following information to the best of their ability:
 
@@ -65,7 +65,7 @@ Projects must be formally proposed via GitHub Issues (is this correct? where sho
 **Project needs:**
 - How would this project benefit from inclusion in LF Energy?
 - Please describe any infrastructure needs or requests (e.g., web hosting).
-- Plan for achieving next maturity level (Sandbox -> Incubating -> Graduated).
+- Plan for achieving next maturity level (Incubation -> Early Adoption -> Graduated).
 
 
 ### Project Acceptance Process
@@ -78,7 +78,7 @@ Projects must be formally proposed via GitHub Issues (is this correct? where sho
 - The TAC will determine the appropriate initial stage for the project based on the evidence submitted. New projects can apply for admission at Sandbox or Incubating stage via the review process.
 
 
-### Additional requirements for projects applying at the Incubating stage
+### Additional requirements for projects applying at the Early Adoption stage
 
 - Growth plan
 - TODO
@@ -87,5 +87,5 @@ III. Acceptance & Expectations
 ------------------------------
 
 - All projects may attend TAC meetings and contribute work regardless of their stage.
-- Sandbox projects will be featured on the LF Energy projects page.
+- Incubation projects will be featured on the LF Energy projects page.
 - All trademarks for Sandbox, Incubating, Graduated, and Emeritus projects are retained by LF Energy.
