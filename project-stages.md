@@ -15,14 +15,12 @@ All projects may attend TAC meetings and contribute work regardless of their sta
 
 The following table summarizes LF Energy project maturity stages, along with the services LF Energy provides at least stage. In brief, there are three actual project maturity stages, which indicates that a project has been accepted by the TAC, has a legal charter from LF Energy, and trademarks are managed by LF. We describe the pre-project process as a fourth level, either a Special Interest Group or a Working Group, as a great deal of work is done prior to the project’s formation. We also recognize the end of a project’s useful progress.
 
-  SIG and/or WG → Incubation Project → Early Adoption Project → Graduated Project (→ Emeritus Project)
-
 | Stage Requirements & Expectations | Services Offered by LF Energy |
 | --------------------------------- | ----------------------------- |
 | **SIG** - special interest group; **WG** - working group | |
 | <ul><li>Discussion of ideas & solutions</li><li>Plans for potential projects</li><li>Can be proposed by anyone</li><li>Discussion must stay relevant & active</li></ul> | <ul><li>a single mailing list (lists.lfenergy.org)</li><li>meeting support:<ul><li>calendar support (lists.lfenergy.org)</li><li>folder for notes (lists.lfenergy.org)</li><li>Zoom meeting support (zoom.us)</li></ul></li></ul> |
 | **Incubation Project** | |
-| <ul><li>2 TAC sponsors</li><li>Presentation to TAC</li><li>Adherence to IP Policy, adopt LF Energy CoC </li><li>Final acceptance by TAC (⅔ majority)</li><li>Operating TSC with appointed chair</li></ul> | <ul><li>a set of project mailing lists</li><li>recognition on website on sandbox projects page</li><li>legal support: charter & trademark curation</li><li>TAC mentoring & guidance</li><li>PM curation of a github page, if required</li><li>PM help in building a developer community</li></ul> |
+| <ul><li>2 TAC sponsors</li><li>Presentation to TAC</li><li>Adherence to IP Policy, adopt LF Energy CoC </li><li>Final acceptance by TAC (⅔ majority)</li><li>Operating TSC with appointed chair</li></ul> | <ul><li>a set of project mailing lists</li><li>recognition on website </li><li>legal support: charter & trademark curation</li><li>TAC mentoring & guidance</li><li>PM curation of a github page, if required</li><li>PM help in building a developer community</li></ul> |
 | **Early Adoption Project** | |
 | <ul><li>Growth plan accepted by TAC</li><li>Operating TSC with elected chair</li><li>Used in production by 2 end users</li><li>Ongoing flow of commits</li><li>Community participation measurable w/growth plan</li><li>Documented public description of governance</li><li>Final acceptance by TAC (⅔ majority)</li></ul> | <ul><li>a fully built-out web page</li><li>inclusion of milestones in press releases</li><li>TAC seat for TSC chair</li></ul> |
 | **Graduated Project** | |
@@ -112,7 +110,7 @@ To graduate from Incubation or Early Adoption status, or for a new project to jo
  * Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
  * Have a healthy number of maintainers from at least two organizations. A maintainer or committer is defined as someone with the commit bit; i.e., someone who can accept contributions to some or all of the project.
  * Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
- * Receive a supermajority vote from the TAC to move to Graduated stage. Projects can move directly from Sandbox to Graduated status if they can demonstrate sufficient maturity and have met all requirements.
+ * Receive a supermajority vote from the TAC to move to Graduated stage. Projects can move directly from Incubation to Graduated status if they can demonstrate sufficient maturity and have met all requirements.
 
 
 ### Emeritus Stage
