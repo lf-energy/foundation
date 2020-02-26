@@ -6,7 +6,7 @@ Project progression - movement from one stage to another - allows projects to pa
 
 ![](https://github.com/lf-energy/governance/raw/master/lfenergy-project-lifecycle-bw.png)
 
-For more information about how your project can benefit from LF Energy membership and services, please see [TBD Document]().
+For more information about how your project can benefit from LF Energy membership and services, please see [Incubation Requirements](incubation-requirements.md).
 
 ## II. Stages - Definitions & Expectations
 Every LF Energy project has an associated maturity level. Proposed projects should state their stage, along with guidance on why that stage is appropriate.
