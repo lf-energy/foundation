@@ -4,7 +4,7 @@ This governance policy describes how an open source project can formally join LF
 
 Project progression - movement from one stage to another - allows projects to participate at the level that is most appropriate for them given where they are in their lifecycle. Regardless of stage, all LF Energy projects benefit from a deepened alignment with existing projects, and access to mentorship, support, and foundation resources.
 
-![SIG and/or WG → Sandbox Project → Incubating Project → Graduated Project (→ Emeritus Project)](https://github.com/lf-energy/governance/blob/master/lfenergy-project-stages.png)
+![](https://github.com/lf-energy/governance/raw/master/lfenergy-project-lifecycle-bw.png)
 
 For more information about how your project can benefit from LF Energy membership and services, please see [TBD Document]().
 
@@ -15,24 +15,24 @@ All projects may attend TAC meetings and contribute work regardless of their sta
 
 The following table summarizes LF Energy project maturity stages, along with the services LF Energy provides at least stage. In brief, there are three actual project maturity stages, which indicates that a project has been accepted by the TAC, has a legal charter from LF Energy, and trademarks are managed by LF. We describe the pre-project process as a fourth level, either a Special Interest Group or a Working Group, as a great deal of work is done prior to the project’s formation. We also recognize the end of a project’s useful progress.
 
-  SIG and/or WG → Sandbox Project → Incubating Project → Graduated Project (→ Emeritus Project)
+  SIG and/or WG → Incubation Project → Early Adoption Project → Graduated Project (→ Emeritus Project)
 
 | Stage Requirements & Expectations | Services Offered by LF Energy |
 | --------------------------------- | ----------------------------- |
 | **SIG** - special interest group; **WG** - working group | |
 | <ul><li>Discussion of ideas & solutions</li><li>Plans for potential projects</li><li>Can be proposed by anyone</li><li>Discussion must stay relevant & active</li></ul> | <ul><li>a single mailing list (lists.lfenergy.org)</li><li>meeting support:<ul><li>calendar support (lists.lfenergy.org)</li><li>folder for notes (lists.lfenergy.org)</li><li>Zoom meeting support (zoom.us)</li></ul></li></ul> |
-| **Sandbox Project** | |
+| **Incubation Project** | |
 | <ul><li>2 TAC sponsors</li><li>Presentation to TAC</li><li>Adherence to IP Policy, adopt LF Energy CoC </li><li>Final acceptance by TAC (⅔ majority)</li><li>Operating TSC with appointed chair</li></ul> | <ul><li>a set of project mailing lists</li><li>recognition on website on sandbox projects page</li><li>legal support: charter & trademark curation</li><li>TAC mentoring & guidance</li><li>PM curation of a github page, if required</li><li>PM help in building a developer community</li></ul> |
-| **Incubating Project** | |
+| **Early Adoption Project** | |
 | <ul><li>Growth plan accepted by TAC</li><li>Operating TSC with elected chair</li><li>Used in production by 2 end users</li><li>Ongoing flow of commits</li><li>Community participation measurable w/growth plan</li><li>Documented public description of governance</li><li>Final acceptance by TAC (⅔ majority)</li></ul> | <ul><li>a fully built-out web page</li><li>inclusion of milestones in press releases</li><li>TAC seat for TSC chair</li></ul> |
 | **Graduated Project** | |
 | <ul><li>Defined governing body (TSC) of 5 or more disparate members (< ½ at same organizations)</li><li>Documented public desc of release/testing process</li><li>Maintainers from at least 2 orgs</li><li>Public list of project adopters</li><li>Final acceptance by TAC (⅔ majority)</li></ul> | <ul><li>a fully built-out set of web pages</li><li>1-2 project-specific press releases per year </li><li>(i.e. following release schedule)</li><li>Release and other financial support TBD</li></ul> |
 
-### Sandbox Projects
+### Incubation Projects
 
 **Definition**
 
-Sandbox projects are projects which the TAC believes are, or have the potential to be, important to the ecosystem of Projects or ecosystem as a whole. They may be early-stage projects just getting started, or they may be long-established projects with minimal resource needs. The Sandbox stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other LF Energy projects via the graduation process.
+Incubation projects are projects which the TAC believes are, or have the potential to be, important to the ecosystem of Projects or ecosystem as a whole. They may be early-stage projects just getting started, or they may be long-established projects with minimal resource needs. The Incubation stage provides a beneficial, neutral home for these projects in order to foster collaborative development and provide a path to deeper alignment with other LF Energy projects via the graduation process.
 
 **Examples**
 
@@ -43,25 +43,25 @@ Sandbox projects are projects which the TAC believes are, or have the potential 
 
 **Expectations**
 
-End users should evaluate Sandbox projects with care, as this stage does not set requirements for community size, governance, or production readiness. Sandbox projects will receive minimal support from the LF Energy. Projects will be reviewed on an annual basis; they may also request a status review by submitting a report to the TAC.
+End users should evaluate Incubation projects with care, as this stage does not set requirements for community size, governance, or production readiness. Incubation projects receive minimal support from the LF Energy. Projects are reviewed on an annual basis; they may also request a status review by submitting a report to the TAC.
 
 **Acceptance Criteria**
 
-To be considered for the Sandbox Stage, the project must meet the following requirements:
+To be considered for the Incubation Stage, the project must meet the following requirements:
 * 2 TAC sponsors to champion the project & provide mentorship as needed
 * A presentation at the meeting of the TAC
 * Adherence to LF Energy’s IP Policy
 * Adoption of LF Energy Code of Conduct
 * Operating TSC with at least 3 members, one chair elected or appointed by sponsoring organization or LF Energy
 * Final acceptance by TAC, 2/3 majority
-* Upon acceptance, Sandbox projects must list and maintain their status prominently on their website/README
+* Upon acceptance, Incubation projects must list and maintain their status prominently on their website/README
 
-### Incubator Stage
+### Early Adoption Projects
 **Definition**
 
-The Incubator Stage is for projects that are interested in reaching the Graduated Stage, and have identified a growth plan for doing so. Incubator Stage projects will receive mentorship from the TAC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor in to broad success and adoption.
+The Early Adoption stage is for projects that are interested in reaching the Graduated Stage, and have identified a growth plan for doing so. Early Adoption stage projects receive mentorship from the TAC and are expected to actively develop their community of contributors, governance, project documentation, and other variables identified in the growth plan that factor in to broad success and adoption.
 
-In order to support their active development, projects in the Incubator stage have a higher level of access to foundation resources, which will be agreed upon and reviewed on a yearly basis. A project's progress toward its growth plan goals will be reviewed on a yearly basis, and the TAC may ask the project to move to the Sandbox stage if progress on the plan drops off or stalls.
+In order to support their active development, projects in the Early Adoption stage have a higher level of access to Foundation resources, which are agreed upon and reviewed on a yearly basis. A project's progress toward its growth plan goals will be reviewed on a yearly basis, and the TAC may ask the project to move back to the Incubation stage if progress on the plan drops off or stalls.
 
 **Examples**
 
@@ -72,11 +72,11 @@ In order to support their active development, projects in the Incubator stage ha
 
 **Expectations**
 
-Projects in the Incubating stage are generally expected to move to the Graduated stage within two years. Depending on their growth plans, projects may cycle through Sandbox, Incubating, or Graduated stage as needed.
+Projects in the Early Adoption stage are generally expected to move to the Graduated stage within two years. Depending on their growth plans, projects may cycle through Incubation, Early Adoption, or Graduated stage as needed.
 
 **Acceptance Criteria**
 
-To be considered for Incubating Stage, the project must meet the Sandbox requirements as well as the following:
+To be considered for Early Adoption Stage, the project must meet the Incubation requirements as well as the following:
 
  * Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC.
  * Document that it is being used successfully in production by at least two independent end users which, in the TAC’s judgement, are of adequate quality and scope.
@@ -106,7 +106,7 @@ Graduated Stage projects are expected to participate actively in TAC proceedings
 
 **Acceptance Criteria**
 
-To graduate from Sandbox or Incubator status, or for a new project to join with Graduated status, a project must meet the Incubator stage criteria plus:
+To graduate from Incubation or Early Adoption status, or for a new project to join with Graduated status, a project must meet the Early Adoption stage criteria plus:
 
  * Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than 1/3 is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer.
  * Have a documented and publicly accessible description of the project's governance, decision-making, and release processes.
