@@ -14,7 +14,7 @@ All projects are assumed to start at Incubator status unless the TAC has verifie
 
 ### Incubation Project Proposal Requirements
 
-Projects must be formally proposed via GitHub Issues (is this correct? where should these requests be made?). Project proposals submitted to LF Energy should provide the following information to the best of their ability:
+Projects must be formally proposed by answering the following questions and sending by email to tac@lists.lfenergy.org. Project proposals submitted to LF Energy should provide the following information to the best of their ability:
 
 **General information:**
 
