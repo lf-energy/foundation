@@ -1,7 +1,7 @@
 New Project Proposals
 =====================
 
-This is a draft of a form to be created for project proposals to the TAC. Needs to stay in sync with other docs & be confirmed by TAC before creating an actual form.
+This is a draft of a form to be created for project proposals to the LF Energy TAC and Board. Needs to stay in sync with other docs & be confirmed by TAC before creating an actual form.
 
 I. General information
 ----------------------
@@ -72,9 +72,9 @@ Projects must be formally proposed by answering the following questions and send
 
 - Projects are required to present their proposal at an LF Energy Technical Advisory Committee (TAC) meeting.
 - The TAC may ask for changes to bring the project into better alignment with LF Energy, such as adding a governance document to a repository or adopting a Code of Conduct.
-  - The project will need to make these changes in order to be considered further.
-- Projects are accepted via a 2/3 supermajority vote of the TAC, excluding abstentions. << to be discussed - how do we handle abstensions?
-- The proposal document will be finalized as a project charter. This charter document must be included in the project's main repository.
+- The TAC agrees on an evaluation of the project proposal via a 2/3 supermajority vote, excluding abstentions. << to be discussed - how do we handle abstensions?
+- The TAC provides the project assessment to LF Energy Board for project acceptance approval.
+- In case of Board approval, the proposal document will be finalized as a project charter. This charter document must be included in the project's main repository.
 - The TAC will determine the appropriate initial stage for the project based on the evidence submitted. New projects can apply for admission at Incubator or Early Adoption stage via the review process.
 
 
