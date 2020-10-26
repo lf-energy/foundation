@@ -1,7 +1,7 @@
 ---
 name: Webinar Proposal
 about: Submit your title and abstract for a LF Energy Project webinar
-title: " LFE Webinar - [TITLE]"
+title: LFE Webinar - [TITLE]
 labels: ''
 assignees: ''
 
