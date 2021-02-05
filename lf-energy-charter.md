@@ -1,6 +1,6 @@
 # The LF Energy Foundation Charter
 The Linux Foundation  
-Effective July 12, 2018
+Effective July 12, 2018 / Last amended October 7, 2020
 
 <h3>1. Mission and Scope of the LF Energy Foundation</h3>
 
@@ -15,8 +15,8 @@ Effective July 12, 2018
 <h3>2. Membership</h3>
 
 <ol>
-	<li>The Directed Fund will be composed of Premier, General and Associate Members (each, a “Member” and, collectively, the “Members”) in Good Standing. All Members must be current corporate members of the LF (at any level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the Directed Fund may adopt with notice to members.</li>
-	<li>Premier Members will be entitled to appoint a representative to the Governing Board and any Committee.</li>
+	<li>The Directed Fund will be composed of Strategic, General and Associate Members (each, a “Member” and, collectively, the “Members”) in Good Standing. All Members must be current corporate members of the LF (at any level) to participate in the Directed Fund as a member. All participants in the Directed Fund, enjoy the privileges and undertake the obligations described in this Charter, as from time to time amended by the Governing Board with the approval of the LF. During the term of their membership, all members will comply with all such policies as the LF Board of Directors and/or the Directed Fund may adopt with notice to members.</li>
+	<li>Strategic Members will be entitled to appoint a representative to the Governing Board and any Committee.</li>
 	<li>General Members, acting as a class, will be entitled to annually elect one representative to the Governing Board for every ten General Members, up to a maximum of three representatives, provided that there will always be at least one General Member representative, even if there are less than ten General Members. The Governing Board determines the election process.</li>
 	<li>The Associate Member category of membership is limited to Associate Members of The Linux Foundation and requires approval by the Governing Board, or, if the Governing Board sets additional criteria for joining the Directed Fund as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in the Directed Fund does not confer any benefits or rights to the members of the Associate Member.</li>
 	<li>Members will be entitled to:  
@@ -32,7 +32,7 @@ Effective July 12, 2018
 <ol type="a">
 	<li>The Governing Board voting members will consist of:
 		<ol type="i">
-			<li>one representative appointed by each Premier Member;</li>
+			<li>one representative appointed by each Strategic Member;</li>
 			<li>the TAC Representative (as defined herein); and</li>
 			<li>the elected General Member representative or representatives.</li>
 		</ol></li>
@@ -71,7 +71,7 @@ Effective July 12, 2018
 <h3>4. Outreach Committee</h3>
 
 <ol type="a">
-	<li>The Outreach Committee will include one appointed voting representative from each Premier Member. Each General Member may appoint a non-voting representative to observe and contribute ideas to the Outreach Committee.</li>
+	<li>The Outreach Committee will include one appointed voting representative from each Strategic Member. Each General Member may appoint a non-voting representative to observe and contribute ideas to the Outreach Committee.</li>
 	<li>The Outreach Committee will be responsible for the design, development and execution of community outreach efforts on behalf of the Governing Board. The Outreach Committee is expected to coordinate closely with the Governing Board and technical communities to maximize the outreach and visibility of the Technical Project throughout the industry.</li>
 	<li>The Governing Board may appoint a chairperson of the Outreach Committee or delegate responsibility for selecting a chairperson to the Outreach Committee. The Outreach Committee chairperson will be responsible for reporting progress back to the Governing Board. The Outreach Committee chairperson may attend meetings of the Governing Board, but, unless the Outreach Committee chairperson is a member of the Governing Board, the Outreach Committee chairperson will not attend as a voting member of the Governing Board.</li>
 </ol>
@@ -119,7 +119,7 @@ Effective July 12, 2018
 		</ol></li>
 	<li>The voting members of the TAC consist of:
 		<ol type="i">
-			<li>one representative appointed by each Premier Member; and</li>
+			<li>one representative appointed by each Strategic Member; and</li>
 			<li>one representative appointed by the technical oversight body (e.g., a technical steering committee) of each TAC Project (as defined herein).</li>
 		</ol></li>
 	<li>One representative of any Member may observe meetings of the TAC. Any committers from a TAC Project may observe meetings of the TAC. The TAC may change this at any point in time, including: (a) opening meetings to a broader community; (b) holding closed meetings; and (c) holding meetings open to the public.</li>
