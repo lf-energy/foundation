@@ -1,8 +1,14 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Marketing Support
+  - name: Submit a guest blog post
     url: https://jira.linuxfoundation.org/plugins/servlet/desk/portal/23/create/511
-    about: Submit a guest blog post for lfenergy.org and/or linux.com, video to upload to YouTube, host a webinar, or any other social media request.
+    about: Submit a guest blog post for lfenergy.org and/or linux.com
+  - name: Have something posted in the LF Energy social channels
+    url: https://jira.linuxfoundation.org/plugins/servlet/desk/portal/23/create/514
+    about: Request promotion of news pertainent to the LF Energy community through the LF Energy social channels ( Twitter and LinkedIn )
+  - name: Other Marketing Support
+    url: https://jira.linuxfoundation.org/plugins/servlet/desk/portal/23/create/508
+    about: Submit any other marketing request such as a video to upload to YouTube, hosting a webinar, or to learn about other marketing opportunities.
   - name: Project Infrastructure Support
     url: https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/group/6
     about: Request new or changes to mailing list, Slack channel, GitHub organization, 1Password vault, or other infrastructure
@@ -13,5 +19,5 @@ contact_links:
     url: https://github.com/lf-energy/lfenergy-landscape/issues/new/choose
     about: Any requests for adding or updating LF Energy Landscape entries
   - name: Other LF Energy member support requests
-    url: http://members.openmainframeproject.org/
+    url: http://members.lfenergy.org/
     about: Member specific requests, including invoicing, contact management, and participation in member-exclusive groups
