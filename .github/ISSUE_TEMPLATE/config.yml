@@ -1,14 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Submit a guest blog post
-    url: https://jira.linuxfoundation.org/plugins/servlet/desk/portal/23/create/511
-    about: Submit a guest blog post for lfenergy.org and/or linux.com
-  - name: Have something posted in the LF Energy social channels
-    url: https://jira.linuxfoundation.org/plugins/servlet/desk/portal/23/create/514
-    about: Request promotion of news pertainent to the LF Energy community through the LF Energy social channels ( Twitter and LinkedIn )
-  - name: Other Marketing Support
-    url: https://jira.linuxfoundation.org/plugins/servlet/desk/portal/23/create/508
-    about: Submit any other marketing request such as a video to upload to YouTube, hosting a webinar, or to learn about other marketing opportunities.
+  - name: Communications/Marketing Request
+    url: https://form.asana.com/?k=1O2rcYUN67xtS9qccmzwmw&d=9283783873717
+    about: Submit any marketing request such as a video to upload to YouTube, hosting a webinar, or to learn about other marketing opportunities.
   - name: Project Infrastructure Support
     url: https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/group/6
     about: Request new or changes to mailing list, Slack channel, GitHub organization, 1Password vault, or other infrastructure
