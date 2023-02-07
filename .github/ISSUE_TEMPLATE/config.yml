@@ -12,6 +12,8 @@ contact_links:
   - name: LF Energy Landscape entry requests
     url: https://github.com/lf-energy/lfenergy-landscape/issues/new/choose
     about: Any requests for adding or updating LF Energy Landscape entries
+  - name: Add/Update project information in overview deck
+    url: https://form.asana.com/?k=FKqq0ia7rhjtLOzbpTtKFQ&d=9283783873717
   - name: Other LF Energy member support requests
     url: http://members.lfenergy.org/
     about: Member specific requests, including invoicing, contact management, and participation in member-exclusive groups
