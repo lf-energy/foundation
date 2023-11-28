@@ -4,7 +4,8 @@ This repository contains a number of governance documents for the LF Energy Foun
 
 - [LF Energy Overview Deck - overviewdeck.lfenergy.org](./overview_deck).
 - Governance Documents
-  - [LF Energy Charter - charter.lfenergy.org](https://charter.lfenergy.org)
+  - [LF Energy Foundation Directed Fund Charter and Participation Agreement - charter.lfenergy.org](https://charter.lfenergy.org)
+    - Not for Execution - you can complete the membership form at [joinnow.lfenergy.org](https://joinnow.lfenergy.org)
   - [Project Charters](./project_charters) - Latest Technical Charters for LF Energy hosted projects.
 - Transparency
   - [Semi-Annual Survey Results](./surveys)
