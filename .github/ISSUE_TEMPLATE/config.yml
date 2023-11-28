@@ -1,22 +1,25 @@
 blank_issues_enabled: false
 contact_links:
+  - name: New Project Logo Brief
+    url: https://projectlogobrief.lfenergy.org/
+    about: For new projects or working groups, complete this form to create a new logo for a project.
+  - name: New Project Website Brief
+    url: https://projectwebpagebrief.lfenergy.org/
+    about: For new projects or working groups, complete this form to create a webpage for the project on lfenergy.org.
   - name: Communications/Marketing Request
     url: https://form.asana.com/?k=1O2rcYUN67xtS9qccmzwmw&d=9283783873717
-    about: Submit any marketing request such as a video to upload to YouTube, hosting a webinar, or to learn about other marketing opportunities.
-  - name: Creative Services Request
-    url: https://www.linuxfoundation.org/marketing-requests
-    about: Request any design help for logos, collateral, and website design
+    about: Submit any marketing request, such as a video to upload to YouTube, hosting a webinar, or learn about other marketing opportunities.
   - name: Project Infrastructure Support
-    url: https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/group/6
+    url: https://jira.linuxfoundation.org/plugins/servlet/desk/portal/2/create/37
     about: Request new or changes to mailing list, Slack channel, GitHub organization, 1Password vault, or other infrastructure
   - name: Transfer domain to LF Energy
     url: https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/create/63
-    about: For transfering a project-owned domain to the LF Energy
+    about: For transferring a project-owned domain to the LF Energy
   - name: LF Energy Landscape entry requests
     url: https://github.com/lf-energy/lfenergy-landscape/issues/new/choose
-    about: Any requests for adding or updating LF Energy Landscape entries
+    about: Any requests for adding or updating LF Energy Landscape entries ( other than member logos - please update those in [LFX Organization Dashboard](https://myorg.lfx.dev) )
   - name: Add/Update project information in overview deck
     url: https://form.asana.com/?k=FKqq0ia7rhjtLOzbpTtKFQ&d=9283783873717
   - name: Other LF Energy member support requests
     url: http://members.lfenergy.org/
-    about: Member specific requests, including invoicing, contact management, and participation in member-exclusive groups
+    about: Member-specific requests, including invoicing, contact management, and participation in member-exclusive groups
