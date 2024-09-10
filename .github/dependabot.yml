@@ -3,9 +3,14 @@ updates:
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: daily
-
+      interval: weekly
+    groups:
+      all:
+        dependency-type: "production"
   - package-ecosystem: pip
     directory: /overview_deck
     schedule:
-      interval: daily
+      interval: weekly
+    groups:
+      all:
+        dependency-type: "production"
