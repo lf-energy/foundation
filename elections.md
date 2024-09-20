@@ -8,7 +8,7 @@ LF Energy seeks to hold open, fair, transparent, and efficient elections for var
 | LFESS Steering Committee member(s) representing LF Energy General Member class | July 1 - June 30                             | LF Energy General Members that are also LFESS General Members | One for every ten General Members, a minimum of one representative, and a maximum of three representatives ( see [LFESS Steering Committee Appointment policy](lfess-steering-committee-appointment-policy.md) ). |
 | Governing Board Chairperson                                  | Reviewed annually by Governing Board in July | Governing Board representatives                              | One.                                                         |
 | Governing Board Secretary                                    | Reviewed annually by Governing Board in July | Governing Board representatives                              | One.                                                         |
-| TAC Chairperson                                              | Reviewed annually by Governing Board in July | Voting TAC representatives                                   | One.                                                         |
+| TAC Chairperson                                              | Reviewed annually by TAC in July | Voting TAC representatives                                   | One.                                                         |
 
 Elections are typically held the month before the role end date for each role above. The exact timeline will be communicated to the electorate group but generally has the following structure.
 
@@ -30,7 +30,7 @@ Nominations are done via email. Members of the electorate group may nominate som
 
 If there are the same number or fewer of nominees for the given role as there are persons to be elected, those nominees are automatically elected. The electorate will be informed of this via email.
 
-An election will be held if there are more nominees for the given role than the number of persons elected. LF Energy uses [OpaVote](https://opavote.com) for the election process. Electorates will be sent an email with the complete list of nominees to review and a separate email from OpaVote with a unique link to submit their ballot. Voting will be done using the checkbox method; electors will checkbox the individual(s) they wish to elect.
+An election will be held if there are more nominees for the given role than the number of persons elected. LF Energy uses [LFX PCC Voting](https://docs.linuxfoundation.org/lfx/project-control-center/v2-latest-version/collaborations/voting) for the election process. Electorates will be sent an email with the complete list of nominees to review and a separate email from LFX PCC Voting with a unique link to submit their ballot. Voting will be done using the checkbox method; electors will checkbox the individual(s) they wish to elect.
 
 Election results will be announced to the electorate and relevant committee the day after the election closes.
 
