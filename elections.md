@@ -8,7 +8,7 @@ LF Energy seeks to hold open, fair, transparent, and efficient elections for var
 | LFESS Steering Committee member(s) representing LF Energy General Member class | July 1 - June 30                             | LF Energy General Members that are also LFESS General Members | One for every ten General Members, a minimum of one representative, and a maximum of three representatives ( see [LFESS Steering Committee Appointment policy](lfess-steering-committee-appointment-policy.md) ). |
 | Governing Board Chairperson                                  | Reviewed annually by Governing Board in July | Governing Board representatives                              | One.                                                         |
 | Governing Board Secretary                                    | Reviewed annually by Governing Board in July | Governing Board representatives                              | One.                                                         |
-| TAC Chairperson                                              | Reviewed annually by TAC in July | Voting TAC representatives                                   | One.                                                         |
+| TAC Chairperson and Vice Chairperson (specific process at https://tac.lfenergy.org/process/tac_roles.html)                        | July 1 - June 30 | Voting TAC representatives                                   | One Chairperson and one Vice Chairperson.                                                         |
 
 Elections are typically held the month before the role end date for each role above. The exact timeline will be communicated to the electorate group but generally has the following structure.
 
