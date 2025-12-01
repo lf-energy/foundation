@@ -1,0 +1,154 @@
+<!DOCTYPE html><!-- TODO: Frontmatter duplicated --><html lang="en" dir="ltr" class="text-base lg:text-lg 2xl:text-[20px]"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="theme-color" content="#8D46E7"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><title>Open source in Energy with Jonas van den Bogaard of Alliander,Open source in Energy with Jonas van den Bogaard of Alliander — Chris Chinchilla</title>
+<meta name="description" content="&lt;p&gt;I speak with with Jonas van den Bogaard of Alliander about the Linux Foundation&#39;s energy community that fosters open source energy generation and distribution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want the power of Mermaid for enterprises?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mermaid chart brings WYSIWYG editing, generative AI, collaboration, and more to the flexible syntax of Mermaid.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://go.chrischinchilla.com/mermaid&quot;...">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://chrischinchilla.com/podcast/open-source-in-energy-with-jonas-van-den-bogaard-of-alliander">
+<meta property="og:title" content="Open source in Energy with Jonas van den Bogaard of Alliander,Open source in Energy with Jonas van den Bogaard of Alliander">
+<meta property="og:description" content="&lt;p&gt;I speak with with Jonas van den Bogaard of Alliander about the Linux Foundation&#39;s energy community that fosters open source energy generation and distribution&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Want the power of Mermaid for enterprises?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Mermaid chart brings WYSIWYG editing, generative AI, collaboration, and more to the flexible syntax of Mermaid.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://go.chrischinchilla.com/mermaid&quot;...">
+<meta property="og:url" content="https://chrischinchilla.com/podcast/open-source-in-energy-with-jonas-van-den-bogaard-of-alliander">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://image.simplecastcdn.com/images/07cfc631-d0bd-40ad-902a-661fc3023589/8ac6aac8-a32c-4424-9cef-17ba172ca5d2/3000x3000/tech-lounge-logo-square-01.jpg?aid=rss_feed">
+<meta property="og:image:alt" content="Open source in Energy with Jonas van den Bogaard of Alliander,Open source in Energy with Jonas van den Bogaard of Alliander">
+
+<meta property="og:site_name" content="Chris Chinchilla">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@chrischinch">
+<meta name="twitter:creator" content="@chrischinch"><!-- Or Google Fonts --><!-- Google Site Verification --><!-- Google Analytics --><link rel="shortcut icon" href="/favicon.ico"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="mask-icon" href="/favicon.svg" color="#8D46E7"><link rel="sitemap" href="/sitemap-index.xml"><meta name="astro-view-transitions-enabled" content="true"><meta name="astro-view-transitions-fallback" content="animate"><script type="module" src="/_astro/ClientRouter.astro_astro_type_script_index_0_lang.QW52Ox2j.js"></script><link rel="stylesheet" href="/_astro/_id_.Br-FlL1-.css">
+<style>:where([data-astro-image]){-o-object-fit:var(--fit);object-fit:var(--fit);-o-object-position:var(--pos);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}
+</style></head> <body class="antialiased text-gray-900 dark:text-slate-300 tracking-tight bg-white dark:bg-slate-900">  <div class="hidden md:block bg-brandGrey dark:bg-slate-800 dark:border-slate-800 dark:text-slate-400 border-b border-brandGrey text-sm px-3 py-2 text-gray-200 overflow-hidden whitespace-nowrap text-ellipsis"> <span class="text-xs py-0.5 px-1 bg-brandBlue dark:bg-slate-700 dark:text-slate-300 font-semibold">Like what I do?</span> <a href="/support" class="hover:underline text-gray-200 dark:text-slate-400">Your contributions help me continue :)</a> <a target="_blank" rel="noopener" class="float-right" title="It's my site, but anyone is welcome to contribute." href="https://github.com/chrischinchilla/chrischinchilla.com"> <img src="https://img.shields.io/github/stars/chrischinchilla/chrischinchilla.com.svg?style=social&label=Stars&maxAge=86400" alt="Follow @chrischinchilla.com" width="84" height="20"> </a> </div> <header class="sticky top-0 z-40 flex-none mx-auto w-full transition-all ease-in duration-100" id="header"> <div class="py-3 px-3 md:py-3.5 md:px-4 mx-auto w-full md:flex md:justify-between max-w-6xl"> <div class="flex justify-between"> <a class="flex items-center" href="/"> <!-- <Picture
+class="mx-auto"
+widths={[100, 200, 400]}
+sizes="(max-width: 767px) 400px, (max-width: 1479px) 768px, 1480px"
+aspectRatio={1480 / 833}
+loading="eager"
+width={100}
+fit="outside"
+src={bgImage}
+alt="Chinchilla logo"
+/> --><img src="/_astro/chinch-head.CyxmYkKi_Zt5PcO.svg" alt="Chinchilla logo" loading="lazy" decoding="async" fetchpriority="auto" width="534" height="557" class="mx-auto max-w-16"> <span class="self-center ml-2 text-2xl md:text-xl text-gray-900 whitespace-nowrap dark:text-white font-heading font-semibold">Chris Chinchilla</span> </a> <div class="flex items-center md:hidden"> <!-- TODO: Fix image and return --> <!-- <ToggleTheme /> --> <button type="button" class="ml-1.5 text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center transition" aria-label="Toggle Menu" data-aw-toggle-menu> <svg width="1em" height="1em" class="w-6 h-6" optimize="false" data-icon="tabler:menu">   <symbol id="ai:tabler:menu" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8h16M4 16h16"/></symbol><use href="#ai:tabler:menu"></use>  </svg> </button> </div> </div> <nav class="items-center w-full md:w-auto hidden md:flex text-gray-600 dark:text-slate-200 h-[calc(100vh-72px)] md:h-auto overflow-y-auto md:overflow-visible" aria-label="Main navigation"> <ul class="flex flex-col pt-8 md:pt-0 md:flex-row md:self-center w-full md:w-auto text-base"> <li class="dropdown">  <button class="font-medium hover:text-gray-900 dark:hover:text-white px-4 py-3 flex items-center transition duration-150 ease-in-out"> About <svg width="1em" height="1em" class="w-3.5 h-3.5 ml-0.5 hidden md:inline" data-icon="tabler:chevron-down">   <symbol id="ai:tabler:chevron-down" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m6 9l6 6l6-6"/></symbol><use href="#ai:tabler:chevron-down"></use>  </svg> </button> <ul class="dropdown-menu rounded md:absolute pl-4 md:pl-0 md:hidden font-medium md:bg-white md:min-w-[200px] dark:md:bg-slate-800 drop-shadow-xl"> <li> <a class="first:rounded-t last:rounded-b md:hover:bg-gray-100 dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap" href="/community"> Community &amp; volunteering </a> </li> </ul>  </li><li class="dropdown">  <button class="font-medium hover:text-gray-900 dark:hover:text-white px-4 py-3 flex items-center transition duration-150 ease-in-out"> Writing <svg width="1em" height="1em" viewBox="0 0 24 24" class="w-3.5 h-3.5 ml-0.5 hidden md:inline" data-icon="tabler:chevron-down">   <use href="#ai:tabler:chevron-down"></use>  </svg> </button> <ul class="dropdown-menu rounded md:absolute pl-4 md:pl-0 md:hidden font-medium md:bg-white md:min-w-[200px] dark:md:bg-slate-800 drop-shadow-xl"> <li> <a class="first:rounded-t last:rounded-b md:hover:bg-gray-100 dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap" href="/blog"> Blog </a> </li><li> <a class="first:rounded-t last:rounded-b md:hover:bg-gray-100 dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap" href="/books"> Books </a> </li> </ul>  </li><li class="dropdown">  <button class="font-medium hover:text-gray-900 dark:hover:text-white px-4 py-3 flex items-center transition duration-150 ease-in-out"> Work <svg width="1em" height="1em" viewBox="0 0 24 24" class="w-3.5 h-3.5 ml-0.5 hidden md:inline" data-icon="tabler:chevron-down">   <use href="#ai:tabler:chevron-down"></use>  </svg> </button> <ul class="dropdown-menu rounded md:absolute pl-4 md:pl-0 md:hidden font-medium md:bg-white md:min-w-[200px] dark:md:bg-slate-800 drop-shadow-xl"> <li> <a class="first:rounded-t last:rounded-b md:hover:bg-gray-100 dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap" href="/contact"> Work with me </a> </li><li> <a class="first:rounded-t last:rounded-b md:hover:bg-gray-100 dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap" href="/cv"> CV </a> </li><li> <a class="first:rounded-t last:rounded-b md:hover:bg-gray-100 dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap" href="/clients"> Clients </a> </li><li> <a class="first:rounded-t last:rounded-b md:hover:bg-gray-100 dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap" href="/games"> Games </a> </li> </ul>  </li><li class="dropdown">  <button class="font-medium hover:text-gray-900 dark:hover:text-white px-4 py-3 flex items-center transition duration-150 ease-in-out"> Audio &amp; Video <svg width="1em" height="1em" viewBox="0 0 24 24" class="w-3.5 h-3.5 ml-0.5 hidden md:inline" data-icon="tabler:chevron-down">   <use href="#ai:tabler:chevron-down"></use>  </svg> </button> <ul class="dropdown-menu rounded md:absolute pl-4 md:pl-0 md:hidden font-medium md:bg-white md:min-w-[200px] dark:md:bg-slate-800 drop-shadow-xl"> <li> <a class="first:rounded-t last:rounded-b md:hover:bg-gray-100 dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap" href="/videos"> Videos </a> </li><li> <a class="first:rounded-t last:rounded-b md:hover:bg-gray-100 dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap" href="/podcast"> Podcast </a> </li><li> <a class="first:rounded-t last:rounded-b md:hover:bg-gray-100 dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap" href="/courses"> Courses </a> </li> </ul>  </li><li class> <a class="font-medium hover:text-gray-900 dark:hover:text-white px-4 py-3 flex items-center transition duration-150 ease-in-out" href="/support"> Support </a> </li><li class> <a class="font-medium hover:text-gray-900 dark:hover:text-white px-4 py-3 flex items-center transition duration-150 ease-in-out" href="/events"> Events </a> </li><li class> <a class="font-medium hover:text-gray-900 dark:hover:text-white px-4 py-3 flex items-center transition duration-150 ease-in-out" href="/newsletter"> Newsletters </a> </li> <li class="md:hidden"> <a class="font-bold hover:text-gray-900 dark:hover:text-white px-4 py-3 flex items-center transition duration-150 ease-in-out" href="https://github.com/chrischinchilla/chrischinchilla.com">Github</a> </li> </ul> <div class="md:self-center flex items-center md:mb-0 ml-4"> <div class="hidden items-center md:flex"> <!-- TODO: Fix image and return --> <!-- <ToggleTheme iconClass="w-5 h-5" /> --> <a class="text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center" aria-label="RSS Feed" href="/rss.xml"> <svg width="1em" height="1em" class="w-5 h-5" data-icon="tabler:rss">   <symbol id="ai:tabler:rss" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 19a1 1 0 1 0 2 0a1 1 0 1 0-2 0M4 4a16 16 0 0 1 16 16M4 11a9 9 0 0 1 9 9"/></symbol><use href="#ai:tabler:rss"></use>  </svg> </a> </div> </div> </nav> </div> </header> <main> <section class="px-4 py-16 sm:px-6 mx-auto lg:px-8 lg:py-20 max-w-4xl"> <h1 class="font-bold font-heading text-3xl md:text-4xl leading-tighter tracking-tighter">Open source in Energy with Jonas van den Bogaard of Alliander</h1> <div class="mx-auto prose prose-lg max-w-4xl dark:prose-invert dark:prose-headings:text-slate-300 prose-md prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-primary-600 dark:prose-a:text-primary-400 prose-img:rounded-md prose-img:shadow-lg mt-8"> <article class="max-w-md mx-auto md:max-w-none grid gap-6 md:gap-8 md:grid-cols-2"> <div class="relative h-0 pb-[56.25%] md:pb-[75%] lg:pb-[56.25%] overflow-hiddenrounded drop-shadow-lg"> <!-- TODO: These images might be quite heavy --> <!-- TODO: Should also have w-full h-full  --> <img src="https://image.simplecastcdn.com/images/07cfc631-d0bd-40ad-902a-661fc3023589/8ac6aac8-a32c-4424-9cef-17ba172ca5d2/3000x3000/tech-lounge-logo-square-01.jpg?aid=rss_feed" alt="Open source in Energy with Jonas van den Bogaard of Alliander" loading="lazy" decoding="async" fetchpriority="auto" width="420" height="420" class="object-cover mb-6 rounded drop-shadow-lg"> </div> <div class="mt-2"> <!-- TODO: Improve this --> <div class="my-2"><p>I speak with with Jonas van den Bogaard of Alliander about the Linux Foundation's energy community that fosters open source energy generation and distribution</p><p><strong>Want the power of Mermaid for enterprises?</strong></p><p>Mermaid chart brings WYSIWYG editing, generative AI, collaboration, and more to the flexible syntax of Mermaid.</p><p><a href="https://go.chrischinchilla.com/mermaid">https://go.chrischinchilla.com/mermaid</a></p>
+<p><ul><li>For show notes and an interactive transcript, visit <a href="https://chrischinchilla.com/podcast/" target="_blank">chrischinchilla.com/podcast/</a></li><li>To reach out and say hello, visit <a href="https://chrischinchilla.com/contact/" target="_blank">chrischinchilla.com/contact/</a></li><li>To support the show for ad-free listening and extra content, visit <a href="https://chrischinchilla.com/support/" target="_blank">chrischinchilla.com/support/</a></li></ul></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p></div> <h2 class="text-xl sm:text-2xl leading-tight mb-2 font-heading dark:text-slate-300">Listen and download</h2> <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/cdac3e54-f96a-442d-9126-b5064a12ae85"></iframe> <ul> <li><a href="https://share.descript.com/view/https://share.descript.com/view/9F8Ey14rrUJ">Interactive transcript</a></li> </ul> </div> </article> </div> </section> </main> <footer class="border-t border-gray-200 dark:border-slate-800"> <div class="max-w-6xl mx-auto px-4 sm:px-6"> <div class="grid grid-cols-12 gap-4 gap-y-4 sm:gap-y-6 lg:gap-y-8 sm:gap-8 py-4 sm:py-6 lg:py-8 xl:py-12"> <div class="col-span-12 lg:col-span-2"> <div class="mb-2 lg:mb-2"> <a class="inline-block text-lg lg:text-xl" href="/">Chris Chinchilla</a> </div> <!-- <div class="text-sm text-gray-600">
+          <a
+            class="text-gray-600 hover:text-gray-700 dark:text-gray-400 hover:underline transition duration-150 ease-in-out"
+            href={getPermalink('/terms')}>Terms</a
+          > ·
+          <a
+            class="text-gray-600 hover:text-gray-700 dark:text-gray-400 hover:underline transition duration-150 ease-in-out"
+            href={getPermalink('/privacy')}>Privacy Policy</a
+          >
+        </div> --> </div> <div class="col-span-12 xl:col-span-3 2xl:col-span-2"> <div class="text-gray-800 dark:text-gray-300 font-medium mb-1 lg:mb-2 text-sm lg:text-base">About</div> <ul class="text-xs lg:text-sm"> <li class="mb-1 lg:mb-2"> <a class="text-gray-600 hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out" href="/community"> Community &amp; volunteering </a> </li> </ul> </div><div class="col-span-12 xl:col-span-3 2xl:col-span-2"> <div class="text-gray-800 dark:text-gray-300 font-medium mb-1 lg:mb-2 text-sm lg:text-base">Writing</div> <ul class="text-xs lg:text-sm"> <li class="mb-1 lg:mb-2"> <a class="text-gray-600 hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out" href="/blog"> Blog </a> </li><li class="mb-1 lg:mb-2"> <a class="text-gray-600 hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out" href="/books"> Books </a> </li> </ul> </div><div class="col-span-12 xl:col-span-3 2xl:col-span-2"> <div class="text-gray-800 dark:text-gray-300 font-medium mb-1 lg:mb-2 text-sm lg:text-base">Work</div> <ul class="text-xs lg:text-sm"> <li class="mb-1 lg:mb-2"> <a class="text-gray-600 hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out" href="/contact"> Work with me </a> </li><li class="mb-1 lg:mb-2"> <a class="text-gray-600 hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out" href="/cv"> CV </a> </li><li class="mb-1 lg:mb-2"> <a class="text-gray-600 hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out" href="/clients"> Clients </a> </li><li class="mb-1 lg:mb-2"> <a class="text-gray-600 hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out" href="/games"> Games </a> </li> </ul> </div><div class="col-span-12 xl:col-span-3 2xl:col-span-2"> <div class="text-gray-800 dark:text-gray-300 font-medium mb-1 lg:mb-2 text-sm lg:text-base">Audio &amp; Video</div> <ul class="text-xs lg:text-sm"> <li class="mb-1 lg:mb-2"> <a class="text-gray-600 hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out" href="/videos"> Videos </a> </li><li class="mb-1 lg:mb-2"> <a class="text-gray-600 hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out" href="/podcast"> Podcast </a> </li><li class="mb-1 lg:mb-2"> <a class="text-gray-600 hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out" href="/courses"> Courses </a> </li> </ul> </div><div class="col-span-12 xl:col-span-3 2xl:col-span-2"> <div class="text-gray-800 dark:text-gray-300 font-medium mb-1 lg:mb-2 text-sm lg:text-base">Support</div>  </div><div class="col-span-12 xl:col-span-3 2xl:col-span-2"> <div class="text-gray-800 dark:text-gray-300 font-medium mb-1 lg:mb-2 text-sm lg:text-base">Events</div>  </div> </div> <div class="md:flex md:items-center md:justify-between py-3 sm:py-4 lg:py-6 xl:py-8"> <ul class="flex mb-3 sm:mb-4 md:order-1 -ml-2 md:ml-4 md:mb-0"> <li> <a class="text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center" aria-label="RSS" href="/rss.xml"> <svg width="1em" height="1em" viewBox="0 0 24 24" class="w-5 h-5" data-icon="tabler:rss">   <use href="#ai:tabler:rss"></use>  </svg> </a> </li><li> <a class="text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center" aria-label="Github" href="https://github.com/chrischinchilla"> <svg width="1em" height="1em" class="w-5 h-5" data-icon="tabler:brand-github">   <symbol id="ai:tabler:brand-github" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19c-4.3 1.4-4.3-2.5-6-3m12 5v-3.5c0-1 .1-1.4-.5-2c2.8-.3 5.5-1.4 5.5-6a4.6 4.6 0 0 0-1.3-3.2a4.2 4.2 0 0 0-.1-3.2s-1.1-.3-3.5 1.3a12.3 12.3 0 0 0-6.2 0C6.5 2.8 5.4 3.1 5.4 3.1a4.2 4.2 0 0 0-.1 3.2A4.6 4.6 0 0 0 4 9.5c0 4.6 2.7 5.7 5.5 6c-.6.6-.6 1.2-.5 2V21"/></symbol><use href="#ai:tabler:brand-github"></use>  </svg> </a> </li><li> <a class="text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center" aria-label="YouTube" href="https://www.youtube.com/channel/UCgnrx8qi4qhmN6sBebdDrmg"> <svg width="1em" height="1em" class="w-5 h-5" data-icon="tabler:brand-youtube">   <symbol id="ai:tabler:brand-youtube" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M2 8a4 4 0 0 1 4-4h12a4 4 0 0 1 4 4v8a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4z"/><path d="m10 9l5 3l-5 3z"/></g></symbol><use href="#ai:tabler:brand-youtube"></use>  </svg> </a> </li> </ul> <div class="text-sm text-gray-700 mr-4 dark:text-slate-400"> <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 float-left rounded-sm"></span>
+© Chris Chinchilla 2025
+</div> </div> </div> </footer>  <script>(function(){const defaultTheme = "system";
+
+  function applyTheme(theme) {
+    if (theme === 'dark') {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+    }
+  }
+
+  if ((defaultTheme && defaultTheme.endsWith(':only')) || (!localStorage.theme && defaultTheme !== 'system')) {
+    applyTheme(defaultTheme.replace(':only', ''));
+  } else if (
+    localStorage.theme === 'dark' ||
+    (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)
+  ) {
+    applyTheme('dark');
+  } else {
+    applyTheme('light');
+  }
+
+  function attachEvent(selector, event, fn) {
+    const matches = typeof selector === 'string' ? document.querySelectorAll(selector) : selector;
+    if (matches && matches.length) {
+      matches.forEach((elem) => {
+        elem.addEventListener(event, (e) => fn(e, elem), false);
+      });
+    }
+  }
+
+  window.onload = function () {
+    let lastKnownScrollPosition = window.scrollY;
+    let ticking = true;
+
+    attachEvent('[data-aw-toggle-menu]', 'click', function (_, elem) {
+      elem.classList.toggle('expanded');
+      document.body.classList.toggle('overflow-hidden');
+      document.getElementById('header')?.classList.toggle('h-screen');
+      document.querySelector('#header nav')?.classList.toggle('hidden');
+    });
+
+    attachEvent('[data-aw-toggle-color-scheme]', 'click', function () {
+      if (defaultTheme.endsWith(':only')) {
+        return;
+      }
+      document.documentElement.classList.toggle('dark');
+      localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+    });
+
+    attachEvent('[data-aw-social-share]', 'click', function (_, elem) {
+      const network = elem.getAttribute('data-aw-social-share');
+      const url = encodeURIComponent(elem.getAttribute('data-aw-url'));
+      const text = encodeURIComponent(elem.getAttribute('data-aw-text'));
+
+      let href;
+      switch (network) {
+        case 'facebook':
+          href = `https://www.facebook.com/sharer.php?u=${url}`;
+          break;
+        case 'twitter':
+          href = `https://twitter.com/intent/tweet?url=${url}&text=${text}`;
+          break;
+        case 'linkedin':
+          href = `https://www.linkedin.com/shareArticle?mini=true&url=${url}&title=${text}`;
+          break;
+        case 'whatsapp':
+          href = `https://wa.me/?text=${text}%20${url}`;
+          break;
+        case 'mail':
+          href = `mailto:?subject=%22${text}%22&body=${text}%20${url}`;
+          break;
+
+        default:
+          return;
+      }
+
+      const newlink = document.createElement('a');
+      newlink.target = '_blank';
+      newlink.href = href;
+      newlink.click();
+    });
+
+    function appyHeaderStylesOnScroll() {
+      const header = document.getElementById('header');
+      if (lastKnownScrollPosition > 60 && !header.classList.contains('scroll')) {
+        document.getElementById('header').classList.add('scroll');
+      } else if (lastKnownScrollPosition <= 60 && header.classList.contains('scroll')) {
+        document.getElementById('header').classList.remove('scroll');
+      }
+      ticking = false;
+    }
+    appyHeaderStylesOnScroll();
+
+    attachEvent([document], 'scroll', function () {
+      lastKnownScrollPosition = window.scrollY;
+
+      if (!ticking) {
+        window.requestAnimationFrame(() => {
+          appyHeaderStylesOnScroll();
+        });
+        ticking = true;
+      }
+    });
+  };
+
+  window.onpageshow = function () {
+    document.documentElement.classList.add('motion-safe:scroll-smooth');
+    const elem = document.querySelector('[data-aw-toggle-menu]');
+    if (elem) {
+      elem.classList.remove('expanded');
+    }
+    document.body.classList.remove('overflow-hidden');
+    document.getElementById('header')?.classList.remove('h-screen');
+    document.querySelector('#header nav')?.classList.add('hidden');
+  };
+})();</script>  </body> </html>
