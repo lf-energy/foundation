@@ -15,7 +15,7 @@ jobs:
           updateclomonitor: false
           updatedecks: true
           updatecharters: true
-          slug: aswf
+          slug: lf-energy
           overview_decks: '[{"url": "https://docs.google.com/presentation/d/1g2DszuTsNnOy1sGSiNqbYxkIe1XT2Iu2YqhANqhCrms/edit?usp=sharing","filename": "LF Energy High Level Overview"},{"url":"https://docs.google.com/presentation/d/1qsCjeTsv0CVie6HQfi1vHqyfpjmFojWqpXfuIbpRWWk/edit?usp=sharing","filename": "LF Energy Governing Board Overview"},{"url":"https://docs.google.com/presentation/d/19Gysxwk8875Thb9YlBnP0Ub4pokgDIz7rmEsazjcwCk/edit?usp=sharing","filename": "LF Energy TAC Overview"},{"url":"https://docs.google.com/presentation/d/1scoG9tuWM3mSRFTFgw5ObVFF6L06nYfztE2gKaFs1_8/edit?usp=sharing","filename":"LF Energy Membership Overview"}]'
         env:
           token: ${{ secrets.PAT }}
