@@ -7,7 +7,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: jmertic/lfx-tac-actions@39633d84d61a95ed47e84827fdc0c3fb7cf869e0 # 20260612
+      - uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
+        id: app-token
+        with:
+          client-id: ${{ vars.APP_CLIENT_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+      - uses: jmertic/lfx-tac-actions@3cc53bcc460908d9a414290e83e8104357b0d652 # 20260908
         with:
           updateprojects: false
           updatetacmembers: false
@@ -18,6 +23,6 @@ jobs:
           slug: lf-energy
           overview_decks: '[{"url": "https://docs.google.com/presentation/d/1g2DszuTsNnOy1sGSiNqbYxkIe1XT2Iu2YqhANqhCrms/edit?usp=sharing","filename": "LF Energy High Level Overview"},{"url":"https://docs.google.com/presentation/d/1qsCjeTsv0CVie6HQfi1vHqyfpjmFojWqpXfuIbpRWWk/edit?usp=sharing","filename": "LF Energy Governing Board Overview"},{"url":"https://docs.google.com/presentation/d/19Gysxwk8875Thb9YlBnP0Ub4pokgDIz7rmEsazjcwCk/edit?usp=sharing","filename": "LF Energy TAC Overview"},{"url":"https://docs.google.com/presentation/d/1scoG9tuWM3mSRFTFgw5ObVFF6L06nYfztE2gKaFs1_8/edit?usp=sharing","filename":"LF Energy Membership Overview"}]'
         env:
-          token: ${{ secrets.PAT }}
+          token: ${{ steps.app-token.outputs.token }}
           repository: ${{ github.repository }}
           ref: ${{ github.ref }}
