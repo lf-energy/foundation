@@ -2,7 +2,7 @@
 
 This document is intended to serve as a guide to referring to the LF Energy Foundation, a member organization’s participation, an individual code contributor’s participation, and the projects hosted by LF Energy in marketing and communication materials.
 
-High resolution versions of LF Energy and its hosted project logos can be accessed at [https://artwork.lfenergy.org](https://artwork.lfenergy.org/). A slide deck template that can be used for presentations can be accessed in [PPT](https://artwork.lfenergy.org/other/lf-energy/lf-energy-template.pptx) or [Google Docs](https://docs.google.com/presentation/d/13tZl4bfGJ3muxiFF0tBhB8YGpKdFw8poLJ9tfJHEqWE/edit?usp=sharing) format. LF Energy projects should add their project logo next to the LF Energy logo on all slides when using this deck template.
+High resolution versions of LF Energy and its hosted project logos can be accessed at [https://artwork.lfenergy.org](https://artwork.lfenergy.org/). A slide deck template that can be used for presentations can be accessed in [PPT](https://artwork.lfenergy.org/other/lf-energy/lf-energy-template.pptx) or [Google Docs](https://docs.google.com/presentation/d/1xK0xO1hBK7qBJ63grh4Vv1Xt8DQeahg-JGGfS_PbKmg/edit?usp=sharing) format. LF Energy projects should add their project logo next to the LF Energy logo on all slides when using this deck template.
 
 For details on the tools LF Energy offers its projects to host meetings and webinars, see [this overview](https://lfenergy.org/about/guidelines-for-meeting-and-webinar-tools/). For guidelines around project or SIG-specific social media channels, view [this page](https://lfenergy.org/about/brand-guidelines-for-lf-energy-and-hosted-projects/social-media-guidelines-for-projects-sigs/).
 
