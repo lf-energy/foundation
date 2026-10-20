@@ -10,7 +10,7 @@ This folder contains resources for the LF Energy community to assist with market
 
 # Additional Marketing Resources
 
-* Slide deck template: Can be utilized for any presentations focused on LF Energy or its projects ([PPT](https://docs.google.com/presentation/d/1jAb9INxHFAVmqPRK_HvBSvvINg3x5vOp/edit?usp=sharing&ouid=102482177175381085010&rtpof=true&sd=true)  
+* [Slide deck template](https://docs.google.com/presentation/d/1jAb9INxHFAVmqPRK_HvBSvvINg3x5vOp/edit?usp=sharing&ouid=102482177175381085010&rtpof=true&sd=true): Can be utilized for any presentations focused on LF Energy or its projects
 * [Artwork repository](https://artwork.lfenergy.org/): high resolution logos for LF Energy, its projects, and SIGs  
 * [Event photos](http://flickr.com/photos/linuxfoundation/albums/): Photos from all Linux Foundation events, including past LF Energy Summits  
 * [Marketing requests](http://marketingrequest.lfenergy.org): submit this form to request support from the marketing team
